@@ -1,7 +1,7 @@
 +++
 title = "Save the date"
 author = "Equipe organizadora"
-date = 2021-07-09T21:13:14-05:00
+date = 2021-07-05T21:13:14-05:00
 description = "O SICAM está de volta!"
 categories = ["Anúncios"]
 tags = ["Anúncios"]
