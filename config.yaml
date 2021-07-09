@@ -1,4 +1,4 @@
-baseurl: https://example.org
+baseurl: https://sicam.netlify.app/
 title: III SICAM
 theme: hugo-universal-theme
 languageCode: pt-br
