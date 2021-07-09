@@ -1,27 +1,27 @@
 baseurl: https://example.org
-title: Universal
+title: III SICAM
 theme: hugo-universal-theme
 languageCode: pt-br
 defaultContentLanguage: "pt-br"
-disqusShortname: devcows
+disqusShortname: devcows # MUDAR
 googleAnalytics: ''
-paginate: 10
+paginate: 5
 menu:
   main:
     - identifier: home
-      name: Home
+      name: Página Inicial
       url: /
       weight: 1
     - identifier: blog
-      name: Blog
+      name: Notícias
       url: /blog/
       weight: 2
     - identifier: faq
-      name: FAQ
+      name: Perguntas Frequentes
       url: /faq/
       weight: 3
     - identifier: contact
-      name: Contact
+      name: Contato
       url: /contact/
       weight: 4
   topbar:
@@ -55,10 +55,10 @@ params:
     subtitle: ''
     title: Our Clients
   contact_form_ajax: no
-  copyright: Copyright (c) 2015 - 2016, YourCompany; all rights reserved.
-  date_format: January 2, 2006
+  copyright: Copyright (c) 2021, III SICAM; todos os direitos reservados.
+  date_format: 2 de January de 2006
   default_sharing_image: img/sharing-default.png
-  defaultDescription: Site template made by devcows using hugo
+  defaultDescription: III Simpósio Interdisciplinar de Ciência Ambiental
   defaultKeywords:
     - devows
     - hugo
