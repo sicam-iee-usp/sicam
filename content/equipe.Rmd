@@ -1,0 +1,49 @@
+---
+title: "Equipe"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+```{r include=FALSE}
+library(magrittr)
+equipe <- readr::read_csv("equipe.csv")
+```
+
+## Comissão Organizadora
+
+Em construção
+
+
+```{r}
+comissao_organizadora <- equipe %>% dplyr::filter(equipe == "Comissão Organizadora")
+
+n_repeticoes <- length(comissao_organizadora$time) 
+```
+
+
+```{r results="asis"}
+for (i in 1:n_repeticoes) {
+  secao <- comissao_organizadora$time[i]
+  cat("###", as.character(secao), "\n\n")
+  texto <- comissao_organizadora %>% 
+  dplyr::filter(time == secao) %>% 
+    dplyr::mutate(texto = glue::glue("- **{nome}** - {vinculo}
+                                     <a href='https://orcid.org/{orcid}'><i class='fab fa-orcid'></i></a>
+                                     <a href='{lattes}'><i class='ai ai-lattes'></i></a>")) %>% 
+    dplyr::select(texto) %>% 
+    dplyr::pull()
+
+  cat(texto)
+  
+}
+```
+
+
+## Comitê Científico
+
+Em breve
