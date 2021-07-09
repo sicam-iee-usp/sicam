@@ -89,10 +89,8 @@ params:
   style: green
   testimonials:
     enable: yes
-    subtitle: We have worked with many clients and we always like to hear they come
-      out from the cooperation happy and satisfied. Have a look what our clients said
-      about us.
-    title: Testimonials
+    subtitle:
+    title: Palestrantes
   topbar:
     enable: false
     text: "<p class=\"hidden-sm hidden-xs\">Contact us on +420 777 555 333 or hello@universal.com.</p>\n

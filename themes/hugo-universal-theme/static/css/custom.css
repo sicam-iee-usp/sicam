@@ -8,3 +8,7 @@
 .box-simple {
   min-height: 230px;
 }
+
+.customers .item img {
+  max-height: 110px;
+}

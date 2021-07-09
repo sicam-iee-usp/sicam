@@ -1,6 +1,7 @@
 {{ if isset .Site.Params "testimonials" }}
 {{ if .Site.Params.testimonials.enable }}
 {{ if gt (len .Site.Data.testimonials) 0 }}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 <section class="bar background-pentagon no-mb">
     <div class="container">
         <div class="row">
@@ -20,15 +21,17 @@
                     <li class="item">
                         <div class="testimonial same-height-always">
                             <div class="text">
+                                  <h5>{{ .name }}</h5>
+                                    <p>{{ .position }}</p>
                                 <p>{{ .text | markdownify }}</p>
                             </div>
-                            <div class="bottom">
-                                <div class="icon"><i class="fas fa-quote-left"></i>
+                            <div class="bottom"><a href="{{ .lattes }}">
+                                <div class="icon"><i class="ai ai-lattes"></i></a>
+
                                 </div>
                                 <div class="name-picture">
                                     <img class="" alt="" src="{{ .avatar | absURL }}">
-                                    <h5>{{ .name }}</h5>
-                                    <p>{{ .position }}</p>
+
                                 </div>
                             </div>
                         </div>
