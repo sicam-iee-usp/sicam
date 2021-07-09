@@ -77,11 +77,10 @@ params:
   see_more:
     enable: yes
     icon: far fa-file-alt
-    link_text: Check other homepages
+    link_text: Saiba mais
     link_url: '#'
-    subtitle: We have prepared for you more than 40 different HTML pages, including
-      5 variations of homepage.
-    title: Do you want to see more?
+    subtitle: bla bla bla
+    title: Submissões de trabalhos
   style: green
   testimonials:
     enable: yes
