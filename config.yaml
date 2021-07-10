@@ -3,7 +3,7 @@ title: III SICAM
 theme: hugo-universal-theme
 languageCode: pt-br
 defaultContentLanguage: "pt-br"
-disqusShortname: devcows # MUDAR
+#disqusShortname: devcows # MUDAR
 googleAnalytics: ''
 paginate: 5
 menu:
@@ -34,19 +34,23 @@ menu:
   topbar:
     - name: GitHub
       pre: <i class='fab fa-2x fa-github'></i>
-      url: https://github.com/devcows/hugo-universal-theme
+      url: https://github.com/sicam-iee-usp/sicam
+      weight: 5
+    - name: Instagram
+      pre: <i class='fab fa-2x fa-instagram'></i>
+      url: https://www.instagram.com/sicam_procam_usp/
       weight: 1
     - name: Facebook
       pre: <i class='fab fa-2x fa-facebook'></i>
-      url: http://facebook.com
+      url: https://www.facebook.com/iii.sicam.2021
       weight: 2
     - name: Twitter
       pre: <i class='fab fa-2x fa-twitter'></i>
-      url: http://twitter.com
+      url: https://twitter.com/sicam_procamusp
       weight: 3
     - name: Email
       pre: <i class='fas fa-2x fa-envelope'></i>
-      url: mailto:your@email.com
+      url:  iii.sicam.2021@gmail.com
       weight: 4
 params:
   about_us: <p>Pellentesque habitant morbi tristique senectus et netus et malesuada
@@ -74,12 +78,8 @@ params:
   facebook_site: ''
   features:
     enable: yes
-  formspree_action: https://formspree.io/sample/of/endpoint
-  googleMapsApiKey: AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y
-  latitude: '-12.043333'
   logo: img/logo.png
   logo_small: img/logo-small.png
-  longitude: '-77.028333'
   mainSections: blog
   recent_posts:
     enable: yes
@@ -88,22 +88,19 @@ params:
   see_more:
     enable: yes
     icon: far fa-file-alt
-    link_text: Saiba mais
-    link_url: '#'
-    subtitle: bla bla bla
-    title: Submissões de trabalhos
+    link_text: Clique aqui
+    link_url: 'http://encurtador.com.br/lruCE'
+    subtitle: Preencha o formulário para receber as novidades!
+    title: Pré-inscrição
   style: green
   testimonials:
     enable: yes
     subtitle:
     title: Palestrantes
   topbar:
-    enable: false
-    text: "<p class=\"hidden-sm hidden-xs\">Contact us on +420 777 555 333 or hello@universal.com.</p>\n
-      \     <p class=\"hidden-md hidden-lg\"><a href=\"#\" data-animate-hover=\"pulse\"><i
-      class=\"fas fa-phone\"></i></a>\n      <a href=\"#\" data-animate-hover=\"pulse\"><i
-      class=\"fas fa-envelope\"></i></a>\n      </p>\n      "
-  twitter_site: GoHugoIO
+    enable: true
+    text: ""
+  twitter_site: sicam_procamusp
   viewMorePostLink: /blog/
   widgets:
     categories: yes
