@@ -24,10 +24,18 @@ menu:
       name: Notícias
       url: /blog/
       weight: 3
-    - identifier: equipe
+    - identifier: inscricao
+      name: Pré-inscrição
+      url: http://encurtador.com.br/lruCE
+      weight: 4
+    - parent: evento
       name: Equipe
       url: /equipe/
       weight: 4
+    - parent: evento
+      name: Edições Anteriores
+      url: /edicoes-anteriores/
+      weight: 5
 
 
 
@@ -96,7 +104,7 @@ params:
   testimonials:
     enable: yes
     subtitle:
-    title: Palestrantes
+    title: Pessoas palestrantes convidadas
   topbar:
     enable: true
     text: ""
