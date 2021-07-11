@@ -9,6 +9,19 @@
   min-height: 230px;
 }
 
+body {
+  font-size: 16px;
+}
+
+p {
+  font-size: 16px;
+}
+
 .customers .item img {
-  max-height: 110px;
+  display: inline-block;
+  filter: none !important;
+  /* Chrome 19+, Safari 6+, Safari 6+ iOS */
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
 }
