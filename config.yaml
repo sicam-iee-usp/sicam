@@ -58,7 +58,7 @@ menu:
       weight: 3
     - name: Email
       pre: <i class='fas fa-2x fa-envelope'></i>
-      url:  iii.sicam.2021@gmail.com
+      url:  mailto:iii.sicam.2021@gmail.com
       weight: 4
 params:
   about_us: <p>Pellentesque habitant morbi tristique senectus et netus et malesuada

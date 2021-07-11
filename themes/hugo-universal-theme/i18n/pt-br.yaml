@@ -53,13 +53,12 @@
   translation: "Leia mais"
 
 - id: authorBy
-  translation: "Por"
+  translation: "Escrito por"
 
 - id: recentPosts
-  translation: "Posts recentes"
 
 - id: aboutUs
-  translation: "Sobre nós"
+  translation: "Sobre o evento"
 
 - id: newer
   translation: "Mais novos"
@@ -71,7 +70,7 @@
   translation: "em"
 
 - id: 404Error
-  translation: "Error 404: Page not found"
+  translation: "Erro 404: Página não encontrada"
 
 - id: 404Message
   translation: "We are sorry – this page is not here anymore"
