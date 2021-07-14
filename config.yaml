@@ -80,12 +80,13 @@ params:
   contact_form_ajax: no
   copyright: Copyright (c) 2021, III SICAM; todos os direitos reservados.
   date_format: 2 de January de 2006
-  default_sharing_image: img/sharing-default.png
+  default_sharing_image: img/Logo_cor.png
   defaultDescription: III Simpósio Interdisciplinar de Ciência Ambiental
   defaultKeywords:
-    - devows
-    - hugo
-    - go
+    - SICAM
+    - PROCAM
+    - IEE
+    - USP
   enableGoogleMaps: yes
   facebook_site: ''
   features:
