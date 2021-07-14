@@ -26,7 +26,7 @@ menu:
       weight: 3
     - identifier: inscricao
       name: Pré-inscrição
-      url: http://encurtador.com.br/lruCE
+      url: https://forms.gle/rTGrGkD7Vj2LfJhL8
       weight: 4
     - parent: evento
       name: Equipe
@@ -46,7 +46,7 @@ menu:
   topbar:
     - name: GitHub
       pre: <i class='fab fa-2x fa-github'></i>
-      url: https://github.com/sicam-iee-usp/sicam
+      url: https://github.com/sicam-iee-usp
       weight: 5
     - name: Instagram
       pre: <i class='fab fa-2x fa-instagram'></i>
@@ -101,7 +101,7 @@ params:
     enable: yes
     icon: far fa-file-alt
     link_text: Clique aqui
-    link_url: 'http://encurtador.com.br/lruCE'
+    link_url: 'https://forms.gle/rTGrGkD7Vj2LfJhL8'
     subtitle: Preencha o formulário para receber as novidades!
     title: Pré-inscrição
   style: green
