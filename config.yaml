@@ -9,7 +9,7 @@ paginate: 5
 menu:
   main:
     - identifier: home
-      name: III SICAM
+      name: Página Inicial
       url: /
       weight: 1
     - identifier: evento
