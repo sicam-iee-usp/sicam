@@ -17,9 +17,13 @@ menu:
       url: #
       weight: 2
     - parent: evento
+      name: Sobre o III SICAM
+      url: /sobre-o-evento/
+      weight: 1
+    - parent: evento
       name: Programação
       url: /programacao/
-      weight: 2.1
+      weight: 2
     - identifier: blog
       name: Notícias
       url: /blog/

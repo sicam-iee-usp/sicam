@@ -99,7 +99,7 @@ div.section {
 .heading h4,
 .heading h5 {
   display: inline-block;
-  border-bottom: solid 5px #c9e265;
+  border-bottom: solid 5px #85a68e;
   line-height: 1.1;
   margin-bottom: 0;
   padding-bottom: 10px;
@@ -453,8 +453,8 @@ ul.list-style-none {
 .navbar .btn-default:focus,
 .navbar .btn-default.navbar-toggle:focus {
   background-color: #fff;
-  border-color: #c9e265;
-  color: #c9e265;
+  border-color: #85a68e;
+  color: #85a68e;
 }
 .navbar #search {
   clear: both;
@@ -1123,7 +1123,7 @@ fieldset[disabled] .btn-template-primary.active {
 .owl-theme .owl-controls .owl-page.active span,
 .owl-carousel .owl-controls.clickable .owl-page:hover span,
 .owl-theme .owl-controls.clickable .owl-page:hover span {
-  background: #c9e265;
+  background: #85a68e;
 }
 .owl-carousel .owl-controls .owl-buttons,
 .owl-theme .owl-controls .owl-buttons {
@@ -1138,7 +1138,7 @@ fieldset[disabled] .btn-template-primary.active {
   line-height: 25px;
   margin: 0 5px 0 0;
   font-size: 18px;
-  color: #c9e265;
+  color: #85a68e;
   padding: 0;
   background: #fff;
   border-radius: 13px;
@@ -3159,7 +3159,7 @@ body {
   color: #545454;
 }
 a {
-  color: #c9e265;
+  color: #85a68e;
   text-decoration: none;
 }
 a:hover,
