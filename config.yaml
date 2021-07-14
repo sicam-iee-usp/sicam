@@ -48,18 +48,18 @@ menu:
 
 
   topbar:
-    - name: GitHub
-      pre: <i class='fab fa-2x fa-github'></i>
-      url: https://github.com/sicam-iee-usp
-      weight: 5
+    - name: Página inicial
+      pre: <i class='fas fa-2x fa-home'></i>
+      url: /
+      weight: 1
     - name: Instagram
       pre: <i class='fab fa-2x fa-instagram'></i>
       url: https://www.instagram.com/sicam_procam_usp/
-      weight: 1
+      weight: 2
     - name: Facebook
       pre: <i class='fab fa-2x fa-facebook'></i>
       url: https://www.facebook.com/iii.sicam.2021
-      weight: 2
+      weight: 3
     - name: Twitter
       pre: <i class='fab fa-2x fa-twitter'></i>
       url: https://twitter.com/sicam_procamusp
@@ -68,6 +68,10 @@ menu:
       pre: <i class='fas fa-2x fa-envelope'></i>
       url:  mailto:iii.sicam.2021@gmail.com
       weight: 4
+    - name: GitHub
+      pre: <i class='fab fa-2x fa-github'></i>
+      url: https://github.com/sicam-iee-usp
+      weight: 5
 params:
   about_us: <p>Pellentesque habitant morbi tristique senectus et netus et malesuada
     fames ac turpis egestas.</p>
