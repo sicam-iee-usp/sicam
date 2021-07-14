@@ -9,7 +9,7 @@ paginate: 5
 menu:
   main:
     - identifier: home
-      name: Página Inicial
+      name: III SICAM
       url: /
       weight: 1
     - identifier: evento
@@ -31,6 +31,10 @@ menu:
     - parent: evento
       name: Equipe
       url: /equipe/
+      weight: 3
+    - parent: evento
+      name: Submissão de trabalhos
+      url: /submissao/
       weight: 4
     - parent: evento
       name: Edições Anteriores
