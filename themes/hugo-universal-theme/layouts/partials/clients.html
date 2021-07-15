@@ -14,23 +14,32 @@
                 </p>
 
 
-                <ul class="owl-carousel customers">
-                    {{ range .Site.Data.clients }}
-                    <li class="item" title="{{ .name }}">
+<div class="container">
+<center>
+           {{ range .Site.Data.clients }}
+
+
                         {{ if .url }}
                           <a href="{{ .url }}" target="_blank">
-                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                            <img src="{{ .image }}" alt="{{ .name }}"  style=" max-height: 200px;" />
                           </a>
                         {{ else }}
-                          <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                          <img src="{{ .image }}" alt="{{ .name }}"  style=" max-height: 200px;"/>
                         {{ end }}
-                    </li>
+
                     {{ end }}
-                </ul>
-                <!-- /.owl-carousel -->
+
+
+</center>
+
+</div>
+
+
+
+
             </div>
         </div>
-    </div>
+
 </section>
 {{ end }}
 {{ end }}
