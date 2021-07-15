@@ -440,7 +440,7 @@ ul.list-style-none {
 .navbar .navbar-buttons button,
 .navbar .navbar-buttons a.btn,
 .navbar .navbar-buttons .btn-default.navbar-toggle {
-  margin-top: 11px;
+  margin-top: 0px;
   margin-bottom: 11px;
   margin-left: 0;
   margin-right: 5px;
