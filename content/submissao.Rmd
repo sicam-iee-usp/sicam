@@ -9,4 +9,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-Em breve
+Em breve!
+
+
+## Eixos temáticos
+
+O primeiro Eixo temático do SICAM é o de **Conservação, Impactos e Planejamento Ambiental** e irá tratar de questões voltadas a quatro subtemas: (GT 1) Áreas protegidas, patrimônio cultural, povos indígenas e comunidades tradicionais; (GT 2) Alternativas de uso dos recursos naturais e Economia do Meio Ambiente; (GT 3) Transição energética e Mudanças Climáticas; e (GT 4) Grandes projetos de infraestrutura e impactos socioambientais. Caso o seu trabalho envolva ou perpasse um desses temas, apresente-os nestes GTs!
+
+
+O Eixo temático de **Governança, Políticas Ambientais e Sustentabilidade** será o palco do segundo dia do SICAM. Nele, serão discutidas questões imersas em quatro subtemas ou GTs: (GT 5) Governança, Políticas Públicas e Direito Ambiental; (GT 6) Consumo e Resíduos; (GT 7) Desafios do desenvolvimento sustentável pós Covid-19 no Brasil e América Latina; e (GT 8) Mudanças Climáticas, vulnerabilidade e riscos socioambientais. Venha se apresentar nestes GTs para compartilhar seu trabalho vinculado a uma dessas frentes. Lembrando que, tratando-se de uma ciência interdisciplinar e transversal, os temas aqui propostos podem ser parte, ainda que não alvo principal, da sua pesquisa.
+
+
+O terceiro Eixo temático do SICAM é o de **Mudanças climáticas, geotecnologias e modelagem**. Nele, serão abordados os subtemas: (GT 9) Modelagens em Mudanças Climáticas; (GT 10) Geotecnologias e Ciência Ambiental; e (GT 11) Modelagens em Oceanografia. Convidamos a todos que se enquadram nestas áreas a compartilharem seus trabalhos no SICAM!
