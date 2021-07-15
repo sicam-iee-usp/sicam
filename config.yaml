@@ -69,8 +69,7 @@ menu:
       url: https://github.com/sicam-iee-usp
       weight: 5
 params:
-  about_us: <p>Pellentesque habitant morbi tristique senectus et netus et malesuada
-    fames ac turpis egestas.</p>
+  about_us: <p>O Simpósio Interdisciplinar de Ciência Ambiental (SICAM) convida a todas as pessoas que realizam pesquisas acerca de questões socioambientais para fazerem parte desse ambiente de trocas e debate interdisciplinar. </p>
   address: "<p class=\"text-uppercase\"><strong>Email:</strong> <a href='mailto:iii.sicam.2021@gmail.com'>iii.sicam.2021@gmail.com</a> <br> <strong>Endereço:</strong> <Br><a href='http://www.iee.usp.br/' target='_blank'>Instituto de Energia e Ambiente - Universidade de São Paulo</a> <br> Av. Prof. Luciano Gualberto, 1289 - Butantã, São Paulo - SP, 05508-010</p>"
   author: DevCows
   carousel:
