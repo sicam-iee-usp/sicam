@@ -1306,7 +1306,7 @@ fieldset[disabled] .btn-template-primary.active {
 .testimonials .item .testimonial .bottom .icon {
   color: #c9e265;
   font-size: 30px;
-  float: left;
+  float: none;
   width: 20%;
 }
 .testimonials .item .testimonial .name-picture {

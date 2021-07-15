@@ -33,17 +33,15 @@
   {{ .name }}
 </button></center>
                             </div>
-                            <div class="bottom"><a href="{{ .lattes }}" target="_blank">
-                                <div class="icon"><i class="ai ai-lattes"></i></a>
+                            <div class="bottom">
+                              <a href="{{ .lattes }}" target="_blank"> <div class="icon"><i class="ai ai-lattes"></i></a>
+                              <a href="{{ .orcid }}" target="_blank"> <div class="icon"><i class="ai ai-orcid"></i></a>
 
                                 </div>
-                                <div class="name-picture">
-                                    <img class="" alt="" src="{{ .avatar | absURL }}">
 
-                                </div>
                             </div>
                         </div>
-                    </li>
+
                     {{ end }}
                 </ul>
                 <!-- /.owl-carousel -->
