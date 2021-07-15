@@ -21,11 +21,19 @@
                     <li class="item">
                         <div class="testimonial same-height-always">
                             <div class="text">
-                                  <h5>{{ .name }}</h5>
-                                    <p>{{ .position }}</p>
-                                <p>{{ .text | markdownify }}</p>
+
+
+
+                               <h4> <p><center><b>GT {{ .numero_gt }}</b></p>
+                                  <p>{{ .nome_gt | markdownify }}</p></center></h4>
+                                                                <p><b>Temática central: </b> {{ .tematica_central | markdownify }}</p>
+                                                                                                  <h5>Coordenação: </h5>
+
+                                   <center> <button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" title="{{ .position }}" style="white-space: normal; text-transform: capitalize;">
+  {{ .name }}
+</button></center>
                             </div>
-                            <div class="bottom"><a href="{{ .lattes }}">
+                            <div class="bottom"><a href="{{ .lattes }}" target="_blank">
                                 <div class="icon"><i class="ai ai-lattes"></i></a>
 
                                 </div>

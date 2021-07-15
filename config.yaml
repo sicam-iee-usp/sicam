@@ -110,7 +110,7 @@ params:
   testimonials:
     enable: yes
     subtitle:
-    title: Pessoas palestrantes convidadas
+    title: Coordenação dos Grupos de Trabalho
   topbar:
     enable: true
     text: ""
