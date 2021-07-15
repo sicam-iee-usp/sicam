@@ -16,7 +16,7 @@ equipe <- readr::read_csv("equipe.csv")
 
 ## Comissão Organizadora
 
-Em construção
+### Em breve!
 
 
 ```{r}
@@ -26,7 +26,7 @@ n_repeticoes <- length(comissao_organizadora$time)
 ```
 
 
-```{r results="asis"}
+```{r eval=FALSE, include=FALSE, results="asis"}
 for (i in 1:n_repeticoes) {
   secao <- comissao_organizadora$time[i]
   cat("###", as.character(secao), "\n\n")
@@ -46,4 +46,4 @@ for (i in 1:n_repeticoes) {
 
 ## Comitê Científico
 
-Em breve
+### Em breve!
