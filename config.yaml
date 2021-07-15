@@ -48,10 +48,6 @@ menu:
 
 
   topbar:
-    - name: Página inicial
-      pre: <i class='fas fa-2x fa-home'></i>
-      url: /
-      weight: 1
     - name: Instagram
       pre: <i class='fab fa-2x fa-instagram'></i>
       url: https://www.instagram.com/sicam_procam_usp/

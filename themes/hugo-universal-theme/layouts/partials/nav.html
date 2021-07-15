@@ -9,7 +9,9 @@
                 <div class="navbar-buttons">
 
 
-           <BR> {{ range .Site.Menus.topbar.ByWeight }}
+           <BR>
+           <a href="/" style="opacity: 1;"><i class='fas fa-2x fa-home'></i></a>
+           {{ range .Site.Menus.topbar.ByWeight }}
             <a href="{{ .URL }}" target="_blank" style="opacity: 1;">{{ .Pre }}</a>
             {{ end }}
 
