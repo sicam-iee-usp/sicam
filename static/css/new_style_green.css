@@ -3577,3 +3577,7 @@ a.list-group-item.active > .badge,
     margin-right: auto;
     width: 60%; !important
 }
+
+p{
+  text-align: justify;
+}
