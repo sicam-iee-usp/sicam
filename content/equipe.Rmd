@@ -11,36 +11,24 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{r include=FALSE}
 library(magrittr)
-equipe <- readr::read_csv("equipe.csv")
+equipe <- readr::read_csv("equipe_comissao_organizadora.csv")
 ```
 
 ## Comissão Organizadora
 
-### Em breve!
-
-
-```{r}
-comissao_organizadora <- equipe %>% dplyr::filter(equipe == "Comissão Organizadora")
-
-n_repeticoes <- length(comissao_organizadora$time) 
-```
-
-
-```{r eval=FALSE, include=FALSE, results="asis"}
-for (i in 1:n_repeticoes) {
-  secao <- comissao_organizadora$time[i]
-  cat("###", as.character(secao), "\n\n")
-  texto <- comissao_organizadora %>% 
-  dplyr::filter(time == secao) %>% 
-    dplyr::mutate(texto = glue::glue("- **{nome}** - {vinculo}
-                                     <a href='https://orcid.org/{orcid}'><i class='fab fa-orcid'></i></a>
-                                     <a href='{lattes}'><i class='ai ai-lattes'></i></a>")) %>% 
+```{r echo=FALSE, results="asis"}
+ comissao_organizadora <- equipe %>% 
+  dplyr::arrange(nome) %>% 
+  dplyr::mutate(vinculo = glue::glue("{vinculo} no PROCAM/IEE/USP")) %>% 
+ 
+    dplyr::mutate(texto = glue::glue("<li> **{nome}** - {vinculo}
+                                     <a href='mailto:{email}'><i class='far fa-envelope'></i></a></li> <br>")) %>% 
     dplyr::select(texto) %>% 
     dplyr::pull()
 
-  cat(texto)
+  cat( comissao_organizadora)
   
-}
+
 ```
 
 
