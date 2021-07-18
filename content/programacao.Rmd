@@ -9,4 +9,91 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-## Em breve!
+
+
+O III SICAM acontecerá nos dias 25, 26 e 27 de Outubro de 2021.
+
+Horário: 14-18h  (para todos os dias do evento)
+
+O evento será 100% online.  
+
+Meio de Transmissão:  Google Meet e YouTube (Canal do IEE)
+
+Evento aberto será aberto para todo público interessado. 
+
+## Estrutura do evento
+
+O evento será dividido em 3 etapas principais para cada dia: 
+
+**i) Mesa Redonda:** dará a abertura das atividades do dia,  a partir de uma  palestra sobre o tema central a ser tratado em cada dia do evento,  após a apresentação do palestrante o mesmo poderá debater com o público geral e membros convidados para a mesa redonda.  
+
+**ii) Apresentação oral dos trabalhos submetidos e aprovados:** a apresentação será realizada de forma simultânea e em diferentes salas on-line, de acordo com a temática (sub temas).  Nesse momento a atenção dos participantes se dividirá entre as salas. A apresentação oral envolve a apresentação dos trabalhos submetidos e aprovados pela Comissão Científica (formada por professores e especialistas sobre o tema), após a apresentação do trabalho será realizado um debate  a partir das perguntas levantadas pelo público e convidados. Além disso, cada sala contará com um relator, o qual possui a função de compilar os principais temas debatidos e compartilhar na Plenária Geral, a última etapa do dia;
+
+**iii) Plenária Geral:** a última etapa do dia,  consiste em ampliar os debates para todo o público das apresentações orais de cada sub tema. 
+
+## Eixos temáticos
+
+Nesta terceira edição, o SICAM conta com três grandes eixos temáticos e onze  grupos temáticos. Os eixos temáticos serão o tema central de cada um dos três dias do evento. 
+
+```{r include=FALSE}
+arquivos <- list.files("../data/testimonials/", full.names = TRUE)
+
+library(magrittr)
+library(dplyr)
+
+fun_read_yaml <- function(file){
+  as.data.frame(yaml::read_yaml(file))
+}
+
+gts <- purrr::map_dfr(arquivos, fun_read_yaml)
+gts$numero_gt <- as.numeric(gts$numero_gt)
+
+gts %>% View()
+
+```
+
+```{r, results='asis'}
+num_tematica_central <- unique(gts$tematica_central)
+
+for (tematica in 1:length(num_tematica_central)) {
+  
+  cat("### Eixo temático:", num_tematica_central[tematica], "\n\n")
+  
+  num_gts <- gts %>%
+    dplyr::filter(tematica_central == num_tematica_central[tematica]) %>% 
+    dplyr::arrange(numero_gt) %>% 
+    dplyr::pull(numero_gt)
+  
+  for (gt in 1:length(num_gts)) {
+    
+    infos_gt <- gts %>%
+      dplyr::filter(numero_gt == num_gts[gt]) 
+   
+    nome_gt <-  infos_gt %>%
+      dplyr::pull(nome_gt)
+    
+    
+ 
+    
+    cat("#### GT ",  num_gts[gt], "- ", nome_gt , "\n\n")
+    
+    cat(
+      "**Coordenação: **",
+      dplyr::pull(infos_gt, name),
+      ' <a href=',
+      dplyr::pull(infos_gt, lattes),
+      ' target="_blank"><i class="ai ai-lattes"></i></a>
+        <a href=',
+      dplyr::pull(infos_gt, orcid),
+      ' target="_blank"> <i class="ai ai-orcid"></i></a>',
+      " \n ",
+      dplyr::pull(infos_gt, position),
+      "\n\n"
+    )
+    
+    
+  }
+}
+```
+
+
