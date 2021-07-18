@@ -1198,6 +1198,7 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel p,
 .home-carousel ul {
   color: #fff;
+
 }
 .home-carousel h1 {
   font-weight: 700;
@@ -1221,6 +1222,7 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 18px;
   font-weight: 700;
   padding: 0;
+  text-align: center; !important
   text-transform: uppercase;
   letter-spacing: 0.10em;
 }
@@ -3578,6 +3580,4 @@ a.list-group-item.active > .badge,
     width: 60%; !important
 }
 
-p{
-  text-align: justify;
-}
+
