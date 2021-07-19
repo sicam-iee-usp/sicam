@@ -9,38 +9,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-## O QUE É O SICAM?
 
-O Simpósio Interdisciplinar de Ciência Ambiental (SICAM) é um evento organizado pelo Programa de Pós-Graduação em Ciência Ambiental do Instituto de Energia e Ambiente da Universidade de São Paulo (PROCAM/IEE/USP).  O SICAM nasceu dentro de um programa de pós-graduação interdisciplinar, com o objetivo de  promover a integração das diversas frentes que regem a Ciência Ambiental e também dos diversos profissionais que atuam nesta área do conhecimento.
+O Simpósio Interdisciplinar de Ciência Ambiental (SICAM) é um evento organizado pelo Programa de Pós-Graduação em Ciência Ambiental do Instituto de Energia e Ambiente da Universidade de São Paulo (PROCAM/IEE/USP). 
 
-O SICAM já teve 2 edições anteriores e presenciais, sendo a última ocorrida em 2016. No contexto da pandemia, este terceiro diálogo será de forma virtual, alcançando ainda mais pessoas pesquisadoras.
+## Objetivo central
 
-O III SICAM contará com mesas redondas, áudio-painéis e apresentações orais - além de outras interações!
-
-O evento acontecerá nos dias 25, 26 e 27 de outubro de 2021. Participe!
+O SICAM tem como principal objetivo promover a integração das diferentes temáticas de pesquisas do PROCAM, assim como, promover um diálogo interdisciplinar entre diversos profissionais que atuam na área de Ciência Ambiental.
 
 
+## A retomada
 
-## PARA QUEM É O SICAM?
-
-O público-alvo do SICAM são pessoas alunas, pesquisadoras e docentes de todos os programas de pós-graduação brasileiros, que pesquisam questões socioambientais com cunho interdisciplinar. O objetivo do SICAM é propiciar um ambiente de trocas e debates entre cientistas sobre aspectos de (1) Conservação, Impactos e Planejamento Ambiental, (2) Governança, Políticas Ambientais e Sustentabilidade e (3) Mudanças climáticas, geotecnologias e modelagem. 
-
-Essas três linhas serão o tema central de cada um dos três dias do evento, nos quais  haverão palestrantes de destaque no seu ramo de pesquisa e a apresentação de trabalhos das pessoas participantes, destacando aspectos sociais, econômicos, tecnológicos, urbanos, rurais, impactos ambientais envolvidos numa ciência interdisciplinar. Assim, busca-se maior integração não apenas com a sociedade civil, mas também entre os diversos profissionais que atuam nas diversas frentes que envolvem o meio ambiente. 
-
-Pessoas interessadas em participar do III SICAM terão a opção de divulgar seus trabalhos em forma de apresentação oral e remota ao vivo ou por gravação de vídeos. 
-
-Os organizadores do evento e o PROCAM convidam, portanto, a comunidade científica e a população em geral para tomar conhecimento e divulgar os trabalhos científicos de temática ambiental que têm ocorrido no Brasil mediante participação no III SICAM.
-
-Todas as pessoas são bem vindas!
+O SICAM teve edições nos anos de 2013 e 2016, mas o evento não teve continuidade desde então. Na reunião anual de Planejamento do PROCAM de 2021, os discentes discutiram sobre aumentar a integração entre os pesquisadores do Programa e os professores levantaram a possibilidade do SICAM retomar. A partir disso, um grupo de discentes somaram forças para organizar o III SICAM em 2021. No contexto da pandemia, este terceiro diálogo será de forma virtual, alcançando ainda mais pessoas pesquisadoras.
 
 
 
-## COMO, QUANDO E ONDE?
+## Público-alvo
 
-O III SICAM acontecerá nos dias 25, 26 e 27 de outubro de 2021.
-
-Como um evento virtual, ele será transmitido via Google Meets e também pelo YouTube.
-
-A apresentação de trabalhos ocorrerá dentro dos 11 GTs, que são divididos entre 3 eixos temáticos:  Conservação, Impactos e Planejamento Ambiental (25/10), Governança, Políticas Ambientais, Sustentabilidade (26/10) e Mudanças climáticas, geotecnologias e modelagem (27/10). Basta escolher qual o dia e GT mais se adequa ao tema da sua pesquisa e enviar o seu arquivo! 
-
-A apresentação poderá ser feita de forma oral e remota ao vivo, ou por gravação de vídeo.
+O público-alvo do SICAM são pessoas alunas, pesquisadoras e docentes de todos os programas de pós-graduação brasileiros, que pesquisam questões socioambientais com abordagem interdisciplinar, além da população em geral. 
