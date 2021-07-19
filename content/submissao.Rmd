@@ -7,6 +7,18 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Datas importantes
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(magrittr)
+readr::read_csv("cronograma.csv") %>% 
+  dplyr::mutate(data = format(data, "%d/%m/%Y")) %>% 
+  #knitr::kable(col.names = c("Data", "Descrição")) %>% 
+  dplyr::rename("Data" = data, "Descrição" = descricao) %>% 
+  gt::gt()
+```
+
+## Sobre a submissão
 
 
 Interessados em participar do evento terão a opção de divulgar seus trabalhos em forma de apresentação oral, distribuídos em  grupos temáticos (GTs).
@@ -23,3 +35,6 @@ Durante as apresentações, haverá debatedores e relatores.
 **A instruções para a submissão de trabalhos serão divulgadas em breve. **
 
 [Saiba mais sobre os eixos e grupos temáticos na página de Programação](../programacao).
+
+
+
