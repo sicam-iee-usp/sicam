@@ -23,7 +23,7 @@ readr::read_csv("cronograma.csv") %>%
 
 Interessados em participar do evento terão a opção de divulgar seus trabalhos em forma de apresentação oral, distribuídos em  grupos temáticos (GTs).
 
-O trabalhos, a serem divulgados pelos participantes, envolverão aspectos sociais, econômicos, tecnológicos, urbanos, rurais, impactos ambientais, dentre outros que englobam a interdisciplinar temática ambiental. A divulgação dos trabalhos busca maior integração não apenas com o meio acadêmico, mas também entre os diversos profissionais que atuam nas diversas frentes que envolvem o meio ambiente. 
+Os trabalhos, a serem divulgados pelos participantes, envolverão aspectos sociais, econômicos, tecnológicos, urbanos, rurais, ambientais, dentre outros que englobam a interdisciplinar temática ambiental. A divulgação dos trabalhos busca maior integração não apenas com o meio acadêmico, mas também entre profissionais que atuam nas diversas frentes que envolvem o meio ambiente.
 
 Durante as apresentações, haverá debatedores e relatores. 
 
