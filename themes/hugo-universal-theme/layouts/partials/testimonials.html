@@ -14,10 +14,15 @@
                   {{ .Site.Params.testimonials.subtitle | markdownify }}
                 </p>
 
-                <!-- *** TESTIMONIALS CAROUSEL *** -->
+                     <!-- *** EIXO 1 CAROUSEL *** -->
+
+
+    <div class="heading text-center">
+                    <h3>Conservação, Impactos e Planejamento Ambiental - 25/10/2021</h3>
+                </div>
 
                 <ul class="owl-carousel testimonials same-height-row">
-                    {{ range .Site.Data.testimonials }}
+                    {{ range .Site.Data.eixo1 }}
                     <li class="item">
                         <div class="testimonial same-height-always">
                             <div class="text">
@@ -26,14 +31,14 @@
 
                                <h4> <p><center><b>GT {{ .numero_gt }}</b></p>
                                   <p>{{ .nome_gt | markdownify }}</p></center></h4>
-                                                                <p><b>Temática central: </b> {{ .tematica_central | markdownify }}</p>
-                                                                                                  <h5>Coordenação: </h5>
+
+
 
                                    <center> <button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" title="{{ .position }}" style="white-space: normal; text-transform: capitalize;">
-  {{ .name }}
+  Coordenação:  {{ .name }}
 </button></center>
                             </div>
-                            <div class="bottom">
+                            <div class="bottom"><center>
                               <a href="{{ .lattes }}" target="_blank"> <div class="icon"><i class="ai ai-lattes"></i></a>
                               <a href="{{ .orcid }}" target="_blank"> <div class="icon"><i class="ai ai-orcid"></i></a>
 
@@ -46,7 +51,84 @@
                 </ul>
                 <!-- /.owl-carousel -->
 
-                <!-- *** TESTIMONIALS CAROUSEL END *** -->
+                <!-- *** EIXO 1 CAROUSEL END *** -->
+
+ <!-- *** EIXO 2 CAROUSEL *** -->
+
+
+    <div class="heading text-center">
+                    <h3>Governança, Políticas Ambientais e Sustentabilidade - 26/10/2021</h3>
+                </div>
+
+                <ul class="owl-carousel testimonials same-height-row">
+                    {{ range .Site.Data.eixo2 }}
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="text">
+
+
+
+                               <h4> <p><center><b>GT {{ .numero_gt }}</b></p>
+                                  <p>{{ .nome_gt | markdownify }}</p></center></h4>
+
+
+                                   <center> <button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" title="{{ .position }}" style="white-space: normal; text-transform: capitalize;">
+  Coordenação:  {{ .name }}
+</button></center>
+                            </div>
+                            <div class="bottom"><center>
+                              <a href="{{ .lattes }}" target="_blank"> <div class="icon"><i class="ai ai-lattes"></i></a>
+                              <a href="{{ .orcid }}" target="_blank"> <div class="icon"><i class="ai ai-orcid"></i></a>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+                    {{ end }}
+                </ul>
+                <!-- /.owl-carousel -->
+
+                <!-- *** EIXO 2 CAROUSEL END *** -->
+
+                 <!-- *** EIXO 3 CAROUSEL *** -->
+
+
+    <div class="heading text-center">
+                    <h3>Mudanças climáticas, Geotecnologias e Modelagem - 27/10/2021</h3>
+                </div>
+
+                <ul class="owl-carousel testimonials same-height-row">
+                    {{ range .Site.Data.eixo3 }}
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="text">
+
+
+
+                               <h4> <p><center><b>GT {{ .numero_gt }}</b></p>
+                                  <p>{{ .nome_gt | markdownify }}</p></center></h4>
+
+
+                                   <center> <button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" title="{{ .position }}" style="white-space: normal; text-transform: capitalize;">
+  Coordenação:  {{ .name }}
+</button></center>
+                            </div>
+                            <div class="bottom"><center>
+                              <a href="{{ .lattes }}" target="_blank"> <div class="icon"><i class="ai ai-lattes"></i></a>
+                              <a href="{{ .orcid }}" target="_blank"> <div class="icon"><i class="ai ai-orcid"></i></a>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+                    {{ end }}
+                </ul>
+                <!-- /.owl-carousel -->
+
+                <!-- *** EIXO 3 CAROUSEL END *** -->
+
             </div>
 
         </div>

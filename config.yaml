@@ -1,4 +1,4 @@
-baseurl: https://sicam.netlify.app/
+baseurl: https://sicam.com.br/
 title: III SICAM
 theme: hugo-universal-theme
 languageCode: pt-br
@@ -110,7 +110,7 @@ params:
   testimonials:
     enable: yes
     subtitle:
-    title: Coordenação dos Grupos Temáticos
+    title: Eixos Temáticos
   topbar:
     enable: true
     text: ""

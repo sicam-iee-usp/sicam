@@ -133,7 +133,7 @@ div.section {
   color: #fff;
   line-height: 80px;
   border-radius: 40px;
-  border: solid 1px #fff;
+  border: solid 0px #fff;
   font-size: 20px;
 }
 .icon.icon-lg {
@@ -1127,7 +1127,7 @@ fieldset[disabled] .btn-template-primary.active {
 .owl-theme .owl-controls .owl-page.active span,
 .owl-carousel .owl-controls.clickable .owl-page:hover span,
 .owl-theme .owl-controls.clickable .owl-page:hover span {
-  background: #85a68e;
+  background: #FFFFFF;
 }
 .owl-carousel .owl-controls .owl-buttons,
 .owl-theme .owl-controls .owl-buttons {
@@ -1153,7 +1153,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel {
   position: relative;
-  background: url('../img/imagem-fundo.jpeg') center center repeat;
+  background: url('../img/fundo-1.jpg') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -1264,14 +1264,14 @@ fieldset[disabled] .btn-template-primary.active {
   list-style-type: none;
   margin: 0 5px;
   background: #fff;
-  padding-bottom: 60px;
+  padding-bottom: 50px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
 .testimonials .item .testimonial {
   position: relative;
-  padding: 20px;
+  padding: 10px;
 }
 .testimonials .item .testimonial:before,
 .testimonials .item .testimonial:after {
@@ -1301,7 +1301,7 @@ fieldset[disabled] .btn-template-primary.active {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  padding: 20px;
+  padding: 0px;
   height: 50px;
 }
 .testimonials .item .testimonial .bottom .icon {
@@ -1733,7 +1733,7 @@ fieldset[disabled] .btn-template-primary.active {
   border: none;
 }
 #heading-breadcrumbs {
-  background: url('../img/texture-green.png') center center repeat;
+  background: url('../img/fundo-gt.png') center center repeat;
   padding: 20px 0;
   margin-bottom: 40px;
 }
@@ -1762,7 +1762,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 30px 0;
 }
 .bar.background-pentagon {
-  background: url('../img/texture-green.png') center center repeat;
+  background: url('../img/fundo-gt.png') center center repeat;
   border-top: solid 1px #999999;
   border-bottom: solid 1px #999999;
 }
@@ -1776,12 +1776,12 @@ fieldset[disabled] .btn-template-primary.active {
   background: #fff;
 }
 .bar.background-image-fixed-1 {
-  background: url('../img/iee-home.jpeg') center top no-repeat;
+  background: url('../img/imagem-fundo-clareada-resized.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 .bar.background-image-fixed-2 {
-  background: url('../img/iee-home.jpeg') center top no-repeat;
+  background: url('../img/imagem-fundo-clareada-resized.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
@@ -3579,4 +3579,17 @@ a.list-group-item.active > .badge,
     width: 60%; !important
 }
 
+.background-pentagon h2{
+  border-bottom: solid 5px #f5f5f5;
+  color: #f5f5f5;
+  text-shadow: 2px 2px #333333;
+}
 
+#heading-breadcrumbs h1 {
+  text-shadow: 2px 2px #f5f5f5;
+}
+
+.background-pentagon h3{
+  border-bottom: solid 5px #f5f5f5;
+  text-shadow: 1px 1px #f5f5f5;
+}
