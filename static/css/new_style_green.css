@@ -1776,12 +1776,12 @@ fieldset[disabled] .btn-template-primary.active {
   background: #fff;
 }
 .bar.background-image-fixed-1 {
-  background: url('../img/iee-home.jpeg') center top no-repeat;
+  background: url('../img/imagem-fundo.jpeg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 .bar.background-image-fixed-2 {
-  background: url('../img/iee-home.jpeg') center top no-repeat;
+  background: url('../img/imagem-fundo.jpeg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
