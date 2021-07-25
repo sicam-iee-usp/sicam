@@ -133,7 +133,7 @@ div.section {
   color: #fff;
   line-height: 80px;
   border-radius: 40px;
-  border: solid 1px #fff;
+  border: solid 0px #fff;
   font-size: 20px;
 }
 .icon.icon-lg {
