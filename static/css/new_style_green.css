@@ -1733,7 +1733,7 @@ fieldset[disabled] .btn-template-primary.active {
   border: none;
 }
 #heading-breadcrumbs {
-  background: url('../img/texture-green.png') center center repeat;
+  background: url('../img/fundo-gt.png') center center repeat;
   padding: 20px 0;
   margin-bottom: 40px;
 }
@@ -3583,4 +3583,8 @@ a.list-group-item.active > .badge,
   border-bottom: solid 5px #f5f5f5;
   color: #f5f5f5;
   text-shadow: 2px 2px #333333;
+}
+
+#heading-breadcrumbs h1 {
+  text-shadow: 2px 2px #f5f5f5;
 }
