@@ -29,8 +29,8 @@ menu:
       url: /blog/
       weight: 3
     - identifier: inscricao
-      name: Pré-inscrição
-      url: https://forms.gle/rTGrGkD7Vj2LfJhL8
+      name: Inscrição
+      url: https://forms.gle/sew1gi3Bojd2RVEu7
       weight: 4
     - parent: evento
       name: Equipe
@@ -103,9 +103,9 @@ params:
     enable: yes
     icon: far fa-file-alt
     link_text: Clique aqui
-    link_url: 'https://forms.gle/rTGrGkD7Vj2LfJhL8'
-    subtitle: Preencha o formulário para receber as novidades!
-    title: Pré-inscrição
+    link_url: 'https://forms.gle/sew1gi3Bojd2RVEu7'
+    subtitle: Preencha o formulário para se inscrever!
+    title: Inscreva-se!
   style: green
   testimonials:
     enable: yes
