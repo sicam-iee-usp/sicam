@@ -3599,3 +3599,8 @@ code{
   color: #439d44;
   background-color: #eeeeee;
 }
+
+
+.col-md-12{
+  text-align: justify;
+}
