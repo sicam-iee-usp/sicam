@@ -40,6 +40,10 @@ menu:
       name: Submissão de trabalhos
       url: /submissao/
       weight: 4
+    - identifier: submissao
+      name: Submissão
+      url: /submissao/
+      weight: 2
     - parent: evento
       name: Edições Anteriores
       url: /edicoes-anteriores/

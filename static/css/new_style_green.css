@@ -3164,7 +3164,7 @@ body {
   color: #545454;
 }
 a {
-  color: #85a68e;
+  color: #439d44;
   text-decoration: none;
 }
 a:hover,
@@ -3593,4 +3593,9 @@ a.list-group-item.active > .badge,
   border-bottom: solid 5px #f5f5f5;
   color: #f5f5f5;
   text-shadow: 2px 2px #333333;
+}
+
+code{
+  color: #439d44;
+  background-color: #eeeeee;
 }
