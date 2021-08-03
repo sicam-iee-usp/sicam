@@ -3605,6 +3605,6 @@ code{
   text-align: justify;
 }
 
-a.col-md-12{
+a:col-md-12{
   border-bottom: .9px dotted #000;
 }
