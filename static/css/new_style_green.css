@@ -3605,6 +3605,6 @@ code{
   text-align: justify;
 }
 
-a:uri{
+a.uri{
   border-bottom: .9px dotted #000;
 }
