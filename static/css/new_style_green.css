@@ -3604,3 +3604,7 @@ code{
 .col-md-12{
   text-align: justify;
 }
+
+a.col-md-12{
+  border-bottom: .9px dotted #000;
+}

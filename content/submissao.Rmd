@@ -48,7 +48,7 @@ Para facilitar a formatação dos trabalhos pelos autores, a Comissão Organizad
 
 <center>
 
-<a href="https://drive.google.com/file/d/1Y7mt43eXgG7e9-5mZGquhP4MtGClnlsk/view" target="_blank"><button type="button" class="btn btn-success">Clique aqui para baixar o modelo em word </button>
+<a href="https://drive.google.com/file/d/1UZ1RYDjsdxoD_5uJsMUq3t3NJxejq4O3/view" target="_blank"><button type="button" class="btn btn-success">Clique aqui para baixar o modelo em word </button>
 
 </center>
 
@@ -88,6 +88,14 @@ Cada um destes dois arquivos devem possuir o mesmo nome e com palavras separadas
 
 Ambos os arquivos devem ser anexados ao formulário de Inscrição [neste link](https://forms.gle/sew1gi3Bojd2RVEu7) até às 23h59min do dia 22 de agosto de 2021. A data de publicação dos aceites e anais será disponibilizada no [site do evento](https://sicam.com.br/).
 
+<center>
+
+<a href="https://forms.gle/sew1gi3Bojd2RVEu7GClnlsk/view" target="_blank"><button type="button" class="btn btn-success">Acesse o formulário de inscrição e submissão! </button>
+
+</center>
+
+</a>
+
 -   No ato da submissão, o autor deverá escolher a **forma de apresentação oral** do seu trabalho: apresentação ao vivo, por meio de videoconferência na plataforma Google Meet, com **10 minutos** para exibição e 5 minutos para resposta a perguntas dos participantes; ou na forma de vídeo-pôster, com duração máxima de **7 minutos**, que deverá ser enviado à Comissão Organizadora do iII SICAM para disponibilização no canal do YouTube do Instituto de Energia e Ambiente da USP e link de acesso disponibilizado no site do Simpósio (<https://sicam.com.br/>) .
 
 -   Caso a quantidade de apresentações orais exceda a quantidade de tempo disponível para o evento, a Comissão Científica selecionará alguns trabalhos para serem apresentados em formato de vídeo-pôster. 
@@ -100,9 +108,8 @@ Atenção para os seguintes pontos:
 
 -   Recomenda-se aos autores que **evitem submissões em última hora** para evitar possíveis falhas de sistema ocasionadas por congestionamento (grande quantidade de usuários ao mesmo tempo).
 
-```{=html}
 <!-- -->
-```
+
 -   Uma vez submetido o resumo, não haverá mais oportunidades para qualquer tipo de correção. Ou seja, **o(s) autor(es) é(são) responsável(is) por eventuais erros presentes no seu trabalho**, devendo estar ciente que a qualidade do texto (gramática, ortografia e formatação) será considerada como critério de avaliação pela comissão científica;
 
 -   **Os certificados de apresentação serão enviados somente aos que apresentaram o trabalho.**
