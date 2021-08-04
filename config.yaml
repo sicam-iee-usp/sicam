@@ -24,6 +24,10 @@ menu:
       name: Programação
       url: /programacao/
       weight: 2
+    - parent: evento
+      name: Eixos Temáticos
+      url: /eixos-tematicos/
+      weight: 3
     - identifier: blog
       name: Notícias
       url: /blog/

@@ -30,7 +30,13 @@ Durante as apresentações, haverá debatedores e relatores.
 
 -   Relatores: responsáveis por compilar os pontos principais de cada discussão e por expô-los na Plenária Geral a todo público do evento, de modo a trazer maior integração dos temas apresentados entre os GTs.
 
-[Saiba mais sobre os eixos e grupos temáticos na página de Programação](../programacao).
+<center>
+
+<a href="../eixos-tematicos" target="_blank"><button type="button" class="btn btn-success">Saiba mais sobre os eixos <br> e grupos temáticos</button>
+
+</center>
+
+</a>
 
 ## Normas de elaboração de resumo expandido
 
@@ -48,7 +54,7 @@ Para facilitar a formatação dos trabalhos pelos autores, a Comissão Organizad
 
 <center>
 
-<a href="https://drive.google.com/file/d/1UZ1RYDjsdxoD_5uJsMUq3t3NJxejq4O3/view" target="_blank"><button type="button" class="btn btn-success">Clique aqui para baixar o modelo em word </button>
+<a href="https://drive.google.com/file/d/1UZ1RYDjsdxoD_5uJsMUq3t3NJxejq4O3/view" target="_blank"><button type="button" class="btn btn-success">Clique aqui para baixar <br> o modelo em word </button>
 
 </center>
 
@@ -90,7 +96,7 @@ Ambos os arquivos devem ser anexados ao formulário de Inscrição [neste link](
 
 <center>
 
-<a href="https://forms.gle/sew1gi3Bojd2RVEu7GClnlsk/view" target="_blank"><button type="button" class="btn btn-success">Acesse o formulário de inscrição e submissão! </button>
+<a href="https://forms.gle/sew1gi3Bojd2RVEu7GClnlsk/view" target="_blank"><button type="button" class="btn btn-success">Acesse o formulário de <br> inscrição e submissão! </button>
 
 </center>
 
