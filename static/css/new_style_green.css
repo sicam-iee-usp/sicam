@@ -3608,3 +3608,14 @@ code{
 a.uri{
   border-bottom: .9px dotted #000;
 }
+
+.col-md-12 strong{
+  color: #3c763d;
+}
+
+.col-md-12 h2{
+  border-bottom: 1px dotted #3c763d;
+
+}
+
+
