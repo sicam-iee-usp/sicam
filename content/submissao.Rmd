@@ -96,7 +96,7 @@ Ambos os arquivos devem ser anexados ao formulário de Inscrição [neste link](
 
 <center>
 
-<a href="https://forms.gle/sew1gi3Bojd2RVEu7GClnlsk/view" target="_blank"><button type="button" class="btn btn-success">Acesse o formulário de <br> inscrição e submissão! </button>
+<a href="https://forms.gle/sew1gi3Bojd2RVEu7" target="_blank"><button type="button" class="btn btn-success">Acesse o formulário de <br> inscrição e submissão! </button>
 
 </center>
 
