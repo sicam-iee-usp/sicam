@@ -44,7 +44,7 @@ Durante as apresentações, haverá debatedores e relatores.
 
 -   No **Resumo**, deve-se ressaltar a importância e justificativa do trabalho, o objetivo, o local de realização, a metodologia utilizada, os principais resultados e, ao final, a principal conclusão, escritos de maneira clara, coerente e concisa. O conteúdo deve apresentar coerência metodológica.
 
--   O resumo expandido poderá conter até 5 elementos não textuais (gráficos, imagens, tabelas, quadros), os quais devem seguir as regras do item "Elementos não textuais", que está ao final deste arquivo. Todos os elementos não-textuais devem ser citados no texto principal.
+-   O resumo expandido poderá conter até 5 elementos não textuais (gráficos, imagens, tabelas, quadros), os quais devem seguir as regras do item "Elementos não textuais", que está ao final deste arquivo. Todos os elementos não-textuais devem ser citados no texto principal. 
 
 -   No **Texto principal** (Desenvolvimento do trabalho, por exemplo, as seções Introdução, Material e Métodos, Resultados, Discussão e Conclusão, podendo-se utilizar outra estrutura caso o autor prefira) deve ser redigido em português, fonte Times New Roman, tamanho 12, formato do papel A4, com espaçamento 1,5 cm entre linhas, bem como margens superior e esquerda de 2,5 cm e inferior e direita de 2,5 cm. O texto deverá ser digitado em modo "justificado".
 
@@ -54,7 +54,7 @@ Para facilitar a formatação dos trabalhos pelos autores, a Comissão Organizad
 
 <center>
 
-<a href="https://drive.google.com/file/d/1UZ1RYDjsdxoD_5uJsMUq3t3NJxejq4O3/view" target="_blank"><button type="button" class="btn btn-success">Clique aqui para baixar <br> o modelo em word </button>
+<a href="/template.docx" target="_blank"><button type="button" class="btn btn-success">Clique aqui para baixar <br> o modelo em word </button>
 
 </center>
 
@@ -78,7 +78,7 @@ Para facilitar a formatação dos trabalhos pelos autores, a Comissão Organizad
 
 ## Elementos não-textuais (máximo de 5)
 
--   **Figuras (fotos, gráficos, desenho):** Devem ser centralizadas, convertidas para o formato "jpg" antes de serem inseridas no texto do Word (inserir, figura, do arquivo). A numeração deve ser sucessiva em algarismos arábicos (Exemplo: Figura 1), sendo citada anteriormente no texto principal. Os **gráficos** devem ser inseridos no texto do Word como figuras (copiar, colar especial, figura do Excel Objeto) e centralizados. Os gráficos devem ser apresentados sem bordas, sendo os eixos x e y com 1/2 pt, descritos com o mesmo tipo e tamanho de letras contidas no texto e a legenda na posição inferior do mesmo.
+-   **Figuras (fotos, gráficos, desenho):** Devem ser centralizadas, convertidas para o formato "jpg" antes de serem inseridas no texto do Word (inserir, figura, do arquivo). A numeração deve ser sucessiva em algarismos arábicos (Exemplo: Figura 1), sendo citada anteriormente no texto principal. Os **gráficos** devem ser inseridos no texto do Word como figuras (copiar, colar especial, figura do Excel Objeto) e centralizados. Os gráficos devem ser apresentados sem bordas, sendo os eixos x e y com 1/2 pt, descritos com o mesmo tipo e tamanho de letras contidas no texto. A legenda deve ser inserida na posição superior, centralizada, e a fonte da imagem deve ser inserida na parte inferior, justificada à direita.
 
 -   **Tabelas:** Devem ser digitadas no texto do Word, de modo a ficarem independentes dos aplicativos fontes, tais como Excel. Espaçamento simples entre linhas. A numeração deve ser sucessiva em algarismos arábicos (Exemplo: Tabela 1), sendo citada anteriormente no texto principal. A legenda deve ser superior à tabela, centralizada, fonte Times New Roman, tamanho 10.
 
