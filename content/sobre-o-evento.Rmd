@@ -12,7 +12,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 O Simpósio Interdisciplinar de Ciência Ambiental (SICAM) é um evento organizado pelo Programa de Pós-Graduação em Ciência Ambiental do Instituto de Energia e Ambiente da Universidade de São Paulo (PROCAM/IEE/USP). 
 
-## Objetivo central
+
+## Tema Central
+
+O III SICAM tem como temática central a **Interdisciplinaridade no enfrentamento à crise planetária**. 
+
+A  interdisciplinaridade, que marca o perfil de pesquisas em Ciência Ambiental, auxilia o enfrentamento às diferentes crises que o planeta perpassa, sendo necessário olhar para tais crises de maneira sistêmica e integrada.
+
+
+## Objetivos
 
 O SICAM tem como principais objetivos promover a integração das diferentes temáticas de pesquisas do PROCAM, assim como um diálogo interdisciplinar entre diversos profissionais que atuam na área de Ciência Ambiental.
 
