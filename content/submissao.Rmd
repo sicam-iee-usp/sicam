@@ -9,13 +9,28 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Datas importantes
 
+Prorrogado! 
+
+O prazo para submissão de trabalhos foi prorrogado para o dia 27/08 (sexta-feira).
+
+Não deixe de aproveitar essa oportunidade para divulgar o seu trabalho. 
+
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(magrittr)
-readr::read_csv("cronograma.csv") %>% 
+tabela_cronograma <- readr::read_csv("cronograma.csv") %>% 
   dplyr::mutate(data = format(data, "%d/%m/%Y")) %>% 
   #knitr::kable(col.names = c("Data", "Descrição")) %>% 
-  dplyr::rename("Data" = data, "Descrição" = descricao) %>% 
-  gt::gt()
+  dplyr::rename("Data" = data, "Descrição" = descricao) 
+
+library(reactable)
+reactable(
+  tabela_cronograma[, 1:2],
+  rowStyle = function(index) {
+    if (tabela_cronograma[index, "destaque"] == TRUE) {
+      list(fontWeight = "bold", background = "rgba(0, 0, 0, 0.03)")
+    }
+  }
+)
 ```
 
 ## Sobre a submissão
@@ -92,7 +107,7 @@ No ato da submissão do resumo expandido, deverão ser enviados dois arquivos: 
 
 Cada um destes dois arquivos devem possuir o mesmo nome e com palavras separadas por underscore ("\_"), por exemplo, `Ciencia_Ambiental_SICAM.docx` (para o arquivo com nomes e afiliações dos autores) e `Ciencia_Ambiental_SICAM.pdf` (para o arquivo sem nomes e afiliações dos autores).
 
-Ambos os arquivos devem ser anexados ao formulário de Inscrição [neste link](https://forms.gle/sew1gi3Bojd2RVEu7) até às 23h59min do dia 22 de agosto de 2021. A data de publicação dos aceites e anais será disponibilizada no [site do evento](https://sicam.com.br/).
+Ambos os arquivos devem ser anexados ao formulário de Inscrição [neste link](https://forms.gle/sew1gi3Bojd2RVEu7) até às 23h59min do dia 27 de agosto de 2021. A data de publicação dos aceites e anais será disponibilizada no [site do evento](https://sicam.com.br/).
 
 <center>
 
