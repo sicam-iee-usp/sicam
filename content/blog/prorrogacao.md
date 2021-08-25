@@ -10,10 +10,10 @@ banner =  "img/prorrogacao.jpeg"
 
 <!--more-->
 
+Atendendo a pedidos externos, **o prazo para submissão de resumos  foi prorrogado para 03/09/2021**. 
+Prestigiem esse evento e divulguem seus trabalhos. 
 
-**O prazo para submissão de trabalhos foi prorrogado para o dia 27/08 (sexta-feira)!**
-
-Não deixe de aproveitar essa oportunidade para divulgar o seu trabalho. 
+Os trabalhos aceitos serão apresentados em formato de vídeo-pôster ou apresentação oral, e serão publicados nos anais do evento com um DOI registrado.
 
 Confira aqui as regras de submissão: https://sicam.com.br/submissao/
 

@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Prorrogado! 
 
-O prazo para submissão de trabalhos foi prorrogado para o dia 27/08 (sexta-feira).
+Atendendo a pedidos externos, o prazo para submissão de resumos foi prorrogado para 03/09/2021. 
 
 Não deixe de aproveitar essa oportunidade para divulgar o seu trabalho. 
 
@@ -107,7 +107,7 @@ No ato da submissão do resumo expandido, deverão ser enviados dois arquivos: 
 
 Cada um destes dois arquivos devem possuir o mesmo nome e com palavras separadas por underscore ("\_"), por exemplo, `Ciencia_Ambiental_SICAM.docx` (para o arquivo com nomes e afiliações dos autores) e `Ciencia_Ambiental_SICAM.pdf` (para o arquivo sem nomes e afiliações dos autores).
 
-Ambos os arquivos devem ser anexados ao formulário de Inscrição [neste link](https://forms.gle/sew1gi3Bojd2RVEu7) até às 23h59min do dia 27 de agosto de 2021. A data de publicação dos aceites e anais será disponibilizada no [site do evento](https://sicam.com.br/).
+Ambos os arquivos devem ser anexados ao formulário de Inscrição [neste link](https://forms.gle/sew1gi3Bojd2RVEu7) até às 23h59min do dia 03 de setembro de 2021. A data de publicação dos aceites e anais será disponibilizada no [site do evento](https://sicam.com.br/).
 
 <center>
 
