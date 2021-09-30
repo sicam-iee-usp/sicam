@@ -24,7 +24,7 @@ Dicas para formatação:
 
 - O conteúdo pode ser narrativo e descritivo, aparecendo ou não a imagem do autor (ou autores) e incluindo ou não apresentações, ilustrações, animações, dentre outros recursos gráficos e visuais.
 
-- Os slides da apresentação podem utilizar a formatação de sua preferência, podendo ou não incluir o logotipo do evento [(disponível para download neste link: ](https://sicam.netlify.app/img/Logo_cor.png) https://sicam.netlify.app/img/Logo_cor.png ).
+- Os slides da apresentação podem utilizar a formatação de sua preferência, podendo ou não incluir o logotipo do evento [(disponível para download neste link)](https://drive.google.com/drive/u/1/folders/14YW8STCAquu3PO5DrxgL9IEZ9-h2h5co).
 
 - Faça um planejamento (roteiro) para que o vídeo tenha o tempo de duração permitido.
 
