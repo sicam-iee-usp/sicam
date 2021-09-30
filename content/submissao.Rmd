@@ -121,6 +121,16 @@ Ambos os arquivos devem ser anexados ao formulário de Inscrição [neste link](
 
 -   No site do Simpósio (<https://sicam.com.br/>), serão disponibilizadas informações e tutoriais para apoiar a apresentação ao vivo dos trabalhos e a edição e envio de vídeo-pôster pelos autores. Em relação aos slides para as apresentações orais e vídeo-pôsteres, os autores podem utilizar a formatação de sua preferência, podendo incluir  o logotipo do evento [(disponível para download neste link)](https://drive.google.com/drive/u/1/folders/14YW8STCAquu3PO5DrxgL9IEZ9-h2h5co).
 
+
+
+<center>
+
+<a href="/tutorial-video-poster/" target="_blank"><button type="button" class="btn btn-success">Clique aqui para conferir <br> o tutorial para apresentação de vídeo-pôster </button>
+
+</center>
+
+</a>
+
 -   O **limite** máximo de trabalhos submetidos é de **3 (três) resumos expandidos por primeiro autor**, não sendo cobrada qualquer taxa para submissão de trabalhos nem para a participação do evento. Em caso de optar por apresentação oral ao vivo para mais de um trabalho, GTs diferentes podem ser considerados desde que ocorram em dias diferentes do evento.
 
 Atenção para os seguintes pontos:

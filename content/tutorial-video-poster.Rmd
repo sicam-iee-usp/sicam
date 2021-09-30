@@ -26,6 +26,13 @@ Dicas para formatação:
 
 - Os slides da apresentação podem utilizar a formatação de sua preferência, podendo ou não incluir o logotipo do evento [(disponível para download neste link)](https://drive.google.com/drive/u/1/folders/14YW8STCAquu3PO5DrxgL9IEZ9-h2h5co).
 
+<center>
+
+<a href="https://drive.google.com/drive/u/1/folders/14YW8STCAquu3PO5DrxgL9IEZ9-h2h5co" target="_blank"><button type="button" class="btn btn-success">Clique aqui para fazer download <br> dos logotipos do evento </button></a>
+
+</center>
+
+
 - Faça um planejamento (roteiro) para que o vídeo tenha o tempo de duração permitido.
 
 - Nossa sugestão é que o roteiro siga a estrutura do trabalho aprovado (título; identificação do autor ou autores – nomes e afiliações; partes principais do trabalho, como o resumo da introdução, material e métodos, resultados, discussão e conclusão; agradecimentos e lista de referências).
