@@ -9,11 +9,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Datas importantes
 
-Prorrogado! 
+**SUBMISSÕES ENCERRADAS**
 
-Atendendo a pedidos externos, o prazo para submissão de resumos foi prorrogado para 03/09/2021. 
 
-Não deixe de aproveitar essa oportunidade para divulgar o seu trabalho. 
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(magrittr)
@@ -121,7 +119,7 @@ Ambos os arquivos devem ser anexados ao formulário de Inscrição [neste link](
 
 -   Caso a quantidade de apresentações orais exceda a quantidade de tempo disponível para o evento, a Comissão Científica selecionará alguns trabalhos para serem apresentados em formato de vídeo-pôster. 
 
--   No site do Simpósio (<https://sicam.com.br/>), serão disponibilizadas informações e tutoriais para apoiar a apresentação ao vivo dos trabalhos e a edição e envio de vídeo-pôster pelos autores. Em relação aos slides para as apresentações orais e vídeo-pôsteres, os autores podem utilizar a formatação de sua preferência, podendo incluir os logotipos do evento disponíveis para download no site (link).
+-   No site do Simpósio (<https://sicam.com.br/>), serão disponibilizadas informações e tutoriais para apoiar a apresentação ao vivo dos trabalhos e a edição e envio de vídeo-pôster pelos autores. Em relação aos slides para as apresentações orais e vídeo-pôsteres, os autores podem utilizar a formatação de sua preferência, podendo incluir  o logotipo do evento [(disponível para download neste link: ](https://sicam.netlify.app/img/Logo_cor.png) https://sicam.netlify.app/img/Logo_cor.png ).
 
 -   O **limite** máximo de trabalhos submetidos é de **3 (três) resumos expandidos por primeiro autor**, não sendo cobrada qualquer taxa para submissão de trabalhos nem para a participação do evento. Em caso de optar por apresentação oral ao vivo para mais de um trabalho, GTs diferentes podem ser considerados desde que ocorram em dias diferentes do evento.
 

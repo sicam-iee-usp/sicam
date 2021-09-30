@@ -1,0 +1,80 @@
+---
+title: "Tutorial para apresentação de Vídeo-Pôster"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
+Prezados participantes do III SICAM, 
+
+Este tutorial visa apoiar a edição e envio de vídeo-pôster pelos autores que tiveram seus trabalhos aprovados no III SICAM e escolheram, previamente, essa forma de apresentação ou tiveram seus trabalhos remanejados para esta modalidade.
+
+Regras gerais:
+
+- A apresentação, por meio de vídeo-pôster, deve ter duração máxima de 7 minutos.
+
+- Após a gravação e edição do vídeo-pôster, o arquivo deve ser enviado à Comissão Organizadora do III SICAM pelo e-mail (iii.sicam.2021@gmail.com), para disponibilização no canal do YouTube do Instituto de Energia e Ambiente da USP e link de acesso disponibilizado no site do Simpósio (https://sicam.com.br/).
+
+Dicas para formatação: 
+
+- O conteúdo pode ser narrativo e descritivo, aparecendo ou não a imagem do autor (ou autores) e incluindo ou não apresentações, ilustrações, animações, dentre outros recursos gráficos e visuais.
+
+- Os slides da apresentação podem utilizar a formatação de sua preferência, podendo ou não incluir o logotipo do evento [(disponível para download neste link: ](https://sicam.netlify.app/img/Logo_cor.png) https://sicam.netlify.app/img/Logo_cor.png ).
+
+- Faça um planejamento (roteiro) para que o vídeo tenha o tempo de duração permitido.
+
+- Nossa sugestão é que o roteiro siga a estrutura do trabalho aprovado (título; identificação do autor ou autores – nomes e afiliações; partes principais do trabalho, como o resumo da introdução, material e métodos, resultados, discussão e conclusão; agradecimentos e lista de referências).
+
+Dicas para gravação:
+
+- Para gravação, pode ser usado celular, computador ou câmera comum. 
+
+- A gravação deve ser feita na posição horizontal (celular deitado). Verifique as configurações do seu celular e selecione a melhor qualidade para a gravação - idealmente em HD (1280x720px) ou Full HD (1920x1080px). A câmera principal costuma ter uma qualidade superior à frontal.
+
+- Sugerimos o uso de software/plataforma, como o Zoom e o próprio Google Meet, que possibilite a gravação do vídeo no formato escolhido previamente (apenas a imagem do autor, somente uma apresentação PPT narrada ou combinando essas e outras possibilidades).
+
+- Verifique a luz do local onde vai gravar, para que a sua imagem fique nítida. A fonte de iluminação deve estar atrás do aparelho que será utilizado na gravação. 
+
+- Evite locais com ruídos e com muitos elementos ao fundo, para não atrapalhar a apresentação e tirar a atenção dos espectadores.
+
+- Evite gravar segurando o celular na mão. Apoie o aparelho em alguma superfície reta - como livros e móveis - ou use um tripé.
+
+- Se desejar inserir imagens ou textos posteriormente na edição, posicione-se em um dos cantos da tela, de forma a deixar um espaço livre ao seu lado. 
+
+- Se não for inserir imagens ou textos na tela do seu vídeo, fique à vontade para se colocar no centro da tela, evitando ficar muito próximo a câmera.
+
+- Configure o volume do áudio e faça testes para verificar a sua qualidade.
+
+- Uma opção para garantir a qualidade do som é utilizar fones de ouvido com microfone, como os simples que usamos em celulares.
+
+- Evite problemas com direito de imagem, para isso, não grave ou exponha pessoas, marcas, áudios ou locais que não autorizaram o uso de sua imagem ou som.
+
+Dicas para edição:
+
+- Caso desejado, é possível editar o vídeo-pôster pelo smartphone, por meio de aplicativos, ou pelo notebook, usando softwares específicos para edição. 
+
+- Seguem algumas referências de softwares: ActivePresenter, Camtasia Studio, YouTube Video Editor, Shotcut, Lightworks, Cyberlink PowerDirector, IMovie, InShot, Ocam, Screenflow, Movavi Video Editor, Windows Movie Maker, Adobe Premiere, Sony Vegas.
+
+Referências:
+
+Abaixo, está a indicação de alguns vídeos, incluindo tutoriais montados para outros eventos, que podem ajudar nos processos de gravação e edição dos vídeo-pôster, mas vale lembrar as regras gerais do III SICAM e as dicas anteriormente mencionadas neste documento.
+
+- Apresentação narrada: https://www.youtube.com/watch?v=r691-Bdya7k&list=PLV1a0I9ysigGKLj-VbJalc6OlS-6cFVvo&index=3.
+
+- Apresentação PPT narrada: https://www.youtube.com/watch?v=ptAJb3A7jcI.
+
+- Apresentação com figuras e textos: https://www.youtube.com/watch?v=Ee-nQMVjSW0&list=PLV1a0I9ysigGKLj-VbJalc6OlS-6cFVvo&index=4.
+
+- Apresentação somente com a imagem do autor: https://www.youtube.com/watch?v=AUwDxKfRuyk&t=41s
+
+- Apresentação animada e narrada: https://www.youtube.com/watch?v=NgcDTWl7DzU.
+
+- Como utilizar o Zoom para gravação:  https://www.youtube.com/watch?v=a-NEeLfTLBU
+
+- Como utilizar o Google Meet para gravação: https://www.youtube.com/watch?v=frR61x0qKMo.
+
