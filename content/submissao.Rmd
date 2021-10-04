@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Datas importantes
 
-**SUBMISSÕES ENCERRADAS**
+
 
 
 
@@ -31,7 +31,7 @@ reactable(
 )
 ```
 
-## Sobre a submissão
+## Sobre a submissão - **SUBMISSÕES ENCERRADAS**
 
 Interessados em participar do evento terão a opção de divulgar seus trabalhos em forma de apresentação oral, distribuídos em grupos temáticos (GTs).
 
