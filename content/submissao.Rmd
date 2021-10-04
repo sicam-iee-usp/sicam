@@ -7,10 +7,14 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Recursos para autores(as)
+
+- <a href="/tutorial-video-poster/"> Tutorial para apresentação de vídeo-pôster </a>
+
+- Template de apresentação - Em breve
+
+
 ## Datas importantes
-
-
-
 
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
@@ -30,6 +34,9 @@ reactable(
   }
 )
 ```
+
+
+
 
 ## Sobre a submissão - **SUBMISSÕES ENCERRADAS**
 
