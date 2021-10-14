@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - <a href="/tutorial-video-poster/"> Tutorial para apresentação de vídeo-pôster </a>
 
-- Template de apresentação - Em breve
+- <a href="https://docs.google.com/presentation/d/17YlmCZSIxFgySethYKAhaKM7Hp5Q45JFzdi6oo-lMG8/edit?usp=sharing" target="_blank">Template de apresentação</a>
 
 
 ## Datas importantes

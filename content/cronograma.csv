@@ -2,7 +2,8 @@ data,descricao,destaque
 2021-07-26,Abertura das inscrições para o evento,FALSE
 2021-07-26,Início do prazo de submissão de trabalhos,FALSE
 2021-09-03,Final do prazo de submissão de trabalhos (PRORROGADO),FALSE
-2021-10-06,Divulgação dos resultados dos trabalhos submetidos (PRORROGADO),TRUE
+2021-10-06,Divulgação dos resultados dos trabalhos submetidos (PRORROGADO),FALSE
 2021-10-08,Data limite para inscrição de pessoas que apresentarão os trabalhos aprovados,FALSE
+2021-10-18, Data limite para envio de vídeo-pôster,TRUE
 2021-10-25,Final do prazo de inscrição para o evento,FALSE
 
