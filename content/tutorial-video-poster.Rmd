@@ -12,13 +12,27 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Prezados participantes do III SICAM, 
 
-Este tutorial visa apoiar a edição e envio de vídeo-pôster pelos autores que tiveram seus trabalhos aprovados no III SICAM e escolheram, previamente, essa forma de apresentação ou tiveram seus trabalhos remanejados para esta modalidade.
+Abaixo segue as regras gerais, assim como, um tutorial que visa apoiar a edição e envio do vídeo-pôster pelos autores que tiveram seus trabalhos aprovados no III SICAM e escolheram, previamente, essa forma de apresentação ou tiveram seus trabalhos remanejados para esta modalidade.
 
-Regras gerais:
+Regras Gerais:
 
-- A apresentação, por meio de vídeo-pôster, deve ter duração máxima de 7 minutos.
+- A apresentação, na modalidade vídeo-pôster, deve ter duração máxima de 7 minutos; 
+ 
+- O envio do seu vídeo deve ser feito através [deste formulário](https://forms.gle/i3we1vpZcui34niL7): https://forms.gle/i3we1vpZcui34niL7 ;
+ 
+- **Data Limite para envio do Vídeo Pôster: 18/10/2021;** 
+ 
+- Os vídeos serão disponibilizados no canal do YouTube do [III SICAM](https://www.youtube.com/channel/UCHzIFGixQBeL2zvAdo35O7A) - O link de acesso será disponibilizado no [site do evento](https://sicam.com.br/) 
 
-- Após a gravação e edição do vídeo-pôster, o arquivo deve ser enviado à Comissão Organizadora do III SICAM pelo e-mail (iii.sicam.2021@gmail.com), para disponibilização no canal do YouTube do Instituto de Energia e Ambiente da USP e link de acesso disponibilizado no site do Simpósio (https://sicam.com.br/).
+Informações Importantes: 
+
+- Teasers de um minuto dos video-poster serão exibidos no nosso momento “Cafézinho com vídeo-pôster” nos dias do evento das 13:00 as 14:00, antes da apresentação das mesas redondas. Por este motivo, é muito importante que ao preencher o formulário de envio do vídeo - pôster, você destaque o minuto mais importante da sua gravação. 
+
+- Nos GTs serão apresentados apenas os resumos que se inscreveram na modalidade “apresentação oral”. No entanto, a Comissão Organizadora do III SICAM ressalta a importância da participação dos autores dos vídeos nos GTs para os quais foram submetidos, pois estes serão espaços para diálogos com um amplo público na temática de interesse; 
+
+- A  emissão do seu certificado de apresentação não está condicionada à presença no GT. A condição para a emissão do certificado é o envio do vídeo pôster de acordo com as regras gerais acima. 
+
+
 
 Dicas para formatação: 
 
