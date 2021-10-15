@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Resumos aprovados
 
-- <a href="/Resumos_Aprovados_III_SICAM.pdf" target="_blank">Clique aqui para conferir a lista de resumos aprovados</a>
+- <a href="/Resumos_Aprovados_III_SICAM_v3.pdf" target="_blank">Clique aqui para conferir a lista de resumos aprovados</a>
 
 ## Recursos para autores(as)
 
