@@ -52,6 +52,10 @@ menu:
       name: Edições Anteriores
       url: /edicoes-anteriores/
       weight: 5
+    - identifier: faq
+      name: FAQ
+      url: /faq/
+      weight: 3
 
 
 
