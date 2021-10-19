@@ -1,0 +1,78 @@
+---
+title: "Programação completa"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+## 25/10/2021
+
+
+```{r echo=FALSE}
+library(magrittr)
+library(reactable)
+
+tabela_programacao <- tibble::tribble(
+~Dia,  ~`Horário`, ~Atividade, ~`Link de acesso`,  ~destaque,
+ "25/10/2021", "13:00 - 14:00" , "<b>Cafézinho com Vídeo-Pôster:</b> Exibição de teasers dos vídeos-pôsteres enviados a todos os GTs.", "Em breve", FALSE,
+
+ "25/10/2021", "14:00 - 14:30", "<b>Cerimônia de Abertura.</b> <br><br> <b>Participantes:</b> Alynne Afonso (Representação Discente e Comissão Organizadora III SICAM),  Roberto Zilles (Diretor do IIE), Paulo Sinisgalli (Coordenador do PROCAM)", "Em breve", FALSE,
+
+ "25/10/2021", "14:30 - 15:30", "<b>Mesa Redonda: Conservação, Impactos e Planejamento Ambiental</b><br><br>	<b>Participantes: </b><br>
+		<b>Mediadora:</b> Cristina Adams  <br>
+		<b>Palestrante:</b> Carla Morsello <br>
+		<b>Palestrante:</b> Ailton Krenak", "Em breve",FALSE,
+
+
+
+ "25/10/2021", "15:40 - 17:00", "<b>GT 1 Áreas Protegidas, Patrimônio Cultural, Povos Indígenas e Comunidades Tradicionais</b> <br><br><b>Coordenadora:<b> Sueli Furlan <br>
+<b>Debatedor(a):</b> Neiva Araujo<br>
+<b>Relator(a):</b> Alex", "Em breve", TRUE,
+
+ "25/10/2021", "15:40 - 17:00", "<b>GT 2 Alternativas de uso dos recursos naturais e Economia do Meio Ambiente</b> <br><br><b>Coordenadora:<b> Paulo Sinisgalli <br>
+<b>Debatedor(a):</b> Rafael Chaves<br>
+<b>Relator(a):</b> Anelise Gomes da Silva", "Em breve", TRUE
+		
+		
+
+# 		
+# 		
+# 		
+# 		
+# 	GT 3 Transição Energética e Mudanças Climáticas	"Coordenadora: Drielli Peyerl
+# Debatedor(a): Nathalia Capellini
+# Relator(a): Mariana Oliveira Barbosa"
+# 		
+# 		
+# 		
+# 		
+# 	GT 4 Grandes Projetos de Infraestrutura e Impactos Socioambientais	"Coordenador: Evandro Moretto
+# Debatedores: Evandro Albiach Branco e Daniel Rondinelli Roquetti
+# Relator(a): Sergio Mantovani Paiva Pulice"
+# 		
+# 		
+# 		
+# 		
+		
+			 	 
+
+) %>% 
+  dplyr::select(-Dia) 
+
+ 
+  reactable::reactable(tabela_programacao[,1:3] ,
+      columns = list(
+    Atividade = colDef(minWidth = 200, html = TRUE)  # overrides the default)
+    ), searchable = TRUE,
+    rowStyle = function(index) {
+    if (tabela_programacao[index, "destaque"] == TRUE) {
+      list(fontWeight = "bold", background = "rgba(0, 0, 0, 0.03)")
+    }
+  })
+
+```
+
