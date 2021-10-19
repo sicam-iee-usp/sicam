@@ -3163,9 +3163,9 @@ body {
   line-height: 1.42857143;
   color: #545454;
 }
-a {
-  color: #4f6b57;
-  text-decoration: none;
+a{
+  border-bottom: .9px dotted #000;
+  color: #bf4f4f;
 }
 a:hover,
 a:focus {
@@ -3608,6 +3608,8 @@ code{
 a.uri{
   border-bottom: .9px dotted #000;
 }
+
+
 
 .col-md-12 strong{
   color: #3c763d;
