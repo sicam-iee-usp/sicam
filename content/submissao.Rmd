@@ -13,6 +13,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Recursos para autores(as)
 
+- <a href="/faq/"> Lista de Perguntas Frequentes (FAQ) </a>
+
 - <a href="/tutorial-video-poster/"> Tutorial para apresentação de vídeo-pôster </a>
 
 - <a href="https://docs.google.com/presentation/d/17YlmCZSIxFgySethYKAhaKM7Hp5Q45JFzdi6oo-lMG8/edit?usp=sharing" target="_blank">Template de apresentação</a>
