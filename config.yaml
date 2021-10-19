@@ -76,10 +76,10 @@ menu:
       pre: <i class='fas fa-2x fa-envelope'></i>
       url:  mailto:iii.sicam.2021@gmail.com
       weight: 4
-    - name: GitHub
-      pre: <i class='fab fa-2x fa-github'></i>
-      url: https://github.com/sicam-iee-usp
-      weight: 5
+    - name: Youtube
+      pre: <i class='fab fa-2x fa-youtube'></i>
+      url: https://www.youtube.com/channel/UCHzIFGixQBeL2zvAdo35O7A/featured
+      weight: 1
 params:
   about_us: <p>O SICAM tem como principal objetivo promover a integração das diferentes temáticas de pesquisas do PROCAM, assim como, promover um diálogo interdisciplinar que  rege a Ciência Ambiental com  os diversos profissionais que atuam nessa área do conhecimento.  </p>
   address: "<p class=\"text-uppercase\"><strong>Email:</strong> <a href='mailto:iii.sicam.2021@gmail.com'>iii.sicam.2021@gmail.com</a> <br> <strong>Endereço:</strong> <Br><a href='http://www.iee.usp.br/' target='_blank'>Instituto de Energia e Ambiente - Universidade de São Paulo</a> <br> Av. Prof. Luciano Gualberto, 1289 - Butantã, São Paulo - SP, 05508-010</p>"
