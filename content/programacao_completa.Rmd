@@ -13,6 +13,15 @@ library(reactable)
 
 
 
+## Estrutura do evento
+
+O evento será dividido em 3 etapas principais para cada dia: 
+
+**i) Mesa Redonda:** dará a abertura das atividades do dia,  a partir de uma  palestra sobre o tema central a ser tratado em cada dia do evento,  após a apresentação do palestrante o mesmo poderá debater com o público geral e membros convidados para a mesa redonda.  
+
+**ii) Apresentação oral dos trabalhos submetidos e aprovados:** a apresentação será realizada de forma simultânea e em diferentes salas on-line, de acordo com a temática (sub temas).  Nesse momento a atenção dos participantes se dividirá entre as salas. A apresentação oral envolve a apresentação dos trabalhos submetidos e aprovados pela Comissão Científica (formada por professores e especialistas sobre o tema), após a apresentação do trabalho será realizado um debate  a partir das perguntas levantadas pelo público e convidados. Além disso, cada sala contará com um relator, o qual possui a função de compilar os principais temas debatidos e compartilhar na Plenária Geral, a última etapa do dia;
+
+**iii) Plenária Geral:** a última etapa do dia,  consiste em ampliar os debates para todo o público das apresentações orais de cada sub tema. 
 
 ```{r echo=FALSE}
 tabela_programacao <- tibble::tribble(
