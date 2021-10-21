@@ -24,7 +24,8 @@ tabela_programacao <- tibble::tribble(
  "25/10/2021", "14:30 - 15:30", "<b>1ª Mesa Redonda: Conservação, Impactos e Planejamento Ambiental</b><br><br>	<b>Participantes: </b><br>
 		<b>Mediador(a):</b> Cristina Adams  <br>
 		<b>Palestrante:</b> Carla Morsello <br>
-		<b>Palestrante:</b> Ailton Krenak", "Em breve",FALSE,
+		<b>Palestrante:</b> Ailton Krenak<br><br>
+<a href='https://sicam.com.br/Breve_Descricao_Curricular_Palestrantes_Mesas_Redondas_III_SICAM.pdf' target='_blank'><i class='fas fa-arrow-right'></i>  Leia a breve descrição curricular dos participantes</a> ", "Em breve",FALSE,
 
 
 
@@ -58,7 +59,8 @@ tabela_programacao <- tibble::tribble(
  "26/10/2021", "14:00 - 15:00", "<b>2ª Mesa Redonda: Governança, Políticas Ambientais e Sustentabilidade</b><br><br>	<b>Participantes: </b><br>
 		<b>Mediador(a):</b> Ana Paula Fracalanza  <br>
 		<b>Palestrante:</b> Mônica Porto <br>
-		<b>Palestrante:</b> Luiz Carlos Beduschi ", "Em breve", FALSE,
+		<b>Palestrante:</b> Luiz Carlos Beduschi <br><br>
+<a href='https://sicam.com.br/Breve_Descricao_Curricular_Palestrantes_Mesas_Redondas_III_SICAM.pdf' target='_blank'><i class='fas fa-arrow-right'></i> Leia a breve descrição curricular dos participantes</a>", "Em breve", FALSE,
 
  "26/10/2021", " ", " ", " ", TRUE,
 
@@ -97,7 +99,8 @@ tabela_programacao <- tibble::tribble(
  "27/10/2021", "14:00 - 15:00", "<b>3ª Mesa Redonda: Mudanças climáticas, geotecnologias e modelagem</b><br><br>	<b>Participantes: </b><br>
 		<b>Mediador(a):</b> Carlos Grohmann   <br>
 		<b>Palestrante:</b> Adreia Pinto  <br>
-		<b>Palestrante:</b> Thelma Krug", "Em breve", FALSE,
+		<b>Palestrante:</b> Thelma Krug <br><br>
+<a href='https://sicam.com.br/Breve_Descricao_Curricular_Palestrantes_Mesas_Redondas_III_SICAM.pdf' target='_blank'><i class='fas fa-arrow-right'></i> Leia a breve descrição curricular dos participantes</a>", "Em breve", FALSE,
 
  "27/10/2021", " ", " ", " ", TRUE,
 
