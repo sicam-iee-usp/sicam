@@ -18,7 +18,17 @@ library(reactable)
 tabela_programacao <- tibble::tribble(
 ~GT, ~Dia,  ~`Horário de Início`, ~`codigo`,  ~`Título`, ~`Autores`, ~`Resumo`,
  
-"1", "25/10/2021", "15:40",  "G01-021-I0137", "Candidatos Pela Vida: Mortes Indígenas Estimulam A Participação Política De Povos Nativos?", "Matheus Valentim; Fernando Postali", "Em breve",
+"1", "25/10/2021", "15:40",  "G01-021-I0137", "Candidatos Pela Vida: Mortes Indígenas Estimulam A Participação Política De Povos Nativos?", "Matheus Valentim; Fernando Postali", "A literatura das ciências sociais aponta para o fato que a participação
+política e as condições de saúde de minorias são variáveis próximas. Seja porque
+empecilhos na saúde pública estimulam maior atividade política das minorias ou
+porque representantes locais podem ajudar em quadros específicos, o relacionamento
+as duas variáveis não é novidade. Este trabalho pretende apresentar essas variáveis e,
+principalmente, explorar sua relação quantitativa para uma minoria um tanto ainda
+inexplorada: os povos indígenas brasileiros. Através de um modelo Probit, foi possível
+constatar que municípios onde indígenas registram maior mortalidade tiveram maior
+probabilidade de ter e de eleger candidatos indígenas nas eleições subsequentes.
+Palavras-Chave: Povos indígenas brasileiros, Saúde Indígena, Participação
+Política, Eleições",
 
 "1", "25/10/2021", "15:55", "G01-024-I0140", "Cenário Energético Na Reserva De Desenvolvimento Sustentável Barra Do Una, Peruíbe/Sp", "Andres Caseiro Guilhem; Tatiana Peixoto Gonçalves", "Em breve",
 
@@ -143,16 +153,16 @@ tabela_programacao <- tibble::tribble(
 
 programacao_dia_1 <- tabela_programacao %>% 
   dplyr::filter(Dia == "25/10/2021") %>% 
-  dplyr::select(-Dia, -codigo) 
+  dplyr::select(-Dia, -codigo, -Resumo) 
 
 programacao_dia_2 <- tabela_programacao %>% 
   dplyr::filter(Dia == "26/10/2021") %>% 
-  dplyr::select(-Dia, -codigo)
+  dplyr::select(-Dia, -codigo, -Resumo)
 
 
 programacao_dia_3 <- tabela_programacao %>% 
   dplyr::filter(Dia == "27/10/2021") %>% 
-  dplyr::select(-Dia, -codigo)
+  dplyr::select(-Dia, -codigo, -Resumo)
 
 ```
 
@@ -161,7 +171,8 @@ programacao_dia_3 <- tabela_programacao %>%
 
 ```{r}
   reactable::reactable(programacao_dia_1, pagination = FALSE,  columns = list(
-    `Título` = colDef(minWidth = 200, html = TRUE) ,
+    `Título` = colDef(minWidth = 100, html = TRUE) ,
+   # `Resumo` = colDef(minWidth = 200, html = TRUE) ,
     `GT` = colDef(html = TRUE, maxWidth = 40),
     `Horário de Início` = colDef(html = TRUE, maxWidth = 80)# overrides the default)
     ), searchable = TRUE)
@@ -172,7 +183,7 @@ programacao_dia_3 <- tabela_programacao %>%
 
 ```{r}
   reactable::reactable(programacao_dia_2,  columns = list(
-    `Título` = colDef(minWidth = 200, html = TRUE) ,
+    `Título` = colDef(minWidth = 100, html = TRUE) ,
     `GT` = colDef(html = TRUE, maxWidth = 40),
     `Horário de Início` = colDef(html = TRUE, maxWidth = 80)# overrides the default)
     ), searchable = TRUE, pagination = FALSE)
@@ -185,7 +196,7 @@ programacao_dia_3 <- tabela_programacao %>%
 
 ```{r}
   reactable::reactable(programacao_dia_3,  columns = list(
-    `Título` = colDef(minWidth = 200, html = TRUE) ,
+    `Título` = colDef(minWidth = 100, html = TRUE) ,
     `GT` = colDef(html = TRUE, maxWidth = 40),
     `Horário de Início` = colDef(html = TRUE, maxWidth = 80)# overrides the default)
     ), searchable = TRUE, pagination = FALSE)
