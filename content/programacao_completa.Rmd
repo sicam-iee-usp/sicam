@@ -19,13 +19,13 @@ tabela_programacao <- tibble::tribble(
 ~Dia,  ~`Horário`, ~Atividade, ~`Link de acesso`,  ~destaque,
  "25/10/2021", "13:00 - 13:50" , "<b>Cafézinho com Vídeo-Pôster:</b> Exibição de teasers dos vídeos-pôsteres enviados a todos os GTs.", " ", FALSE,
 
- "25/10/2021", "14:00 - 14:30", "<b>Cerimônia de Abertura.</b> <br><br> <b>Participantes:</b> Alynne Afonso (Representação Discente e Membro da Comissão Organizadora III SICAM),  Roberto Zilles (Diretor do Diretor do Instituto de Energia e Meio Ambiente - IEE/USP), Paulo Sinisgalli (Coordenador do Programa de Pós Graduação em Ciência Ambiental - PROCAM)", "Em breve", FALSE,
+ "25/10/2021", "14:00 - 14:30", "<b>Cerimônia de Abertura.</b> <br><br> <b>Participantes:</b> Alynne Afonso (Representação Discente e Membro da Comissão Organizadora III SICAM),  Roberto Zilles (Diretor do Diretor do Instituto de Energia e Meio Ambiente - IEE/USP), Paulo Sinisgalli (Coordenador do Programa de Pós Graduação em Ciência Ambiental - PROCAM)", "<a href='https://youtu.be/0ErMSzGbGWM' target='_blank'><i class='fab fa-youtube'></i> Transmissão ao vivo</a>", FALSE,
 
  "25/10/2021", "14:30 - 15:30", "<b>1ª Mesa Redonda: Conservação, Impactos e Planejamento Ambiental</b><br><br>	<b>Participantes: </b><br>
 		<b>Mediador(a):</b> Cristina Adams  <br>
 		<b>Palestrante:</b> Carla Morsello <br>
 		<b>Palestrante:</b> Ailton Krenak<br><br>
-<a href='https://sicam.com.br/Breve_Descricao_Curricular_Palestrantes_Mesas_Redondas_III_SICAM.pdf' target='_blank'><i class='fas fa-arrow-right'></i>  Leia a breve descrição curricular dos participantes</a> ", "Em breve",FALSE,
+<a href='https://sicam.com.br/Breve_Descricao_Curricular_Palestrantes_Mesas_Redondas_III_SICAM.pdf' target='_blank'><i class='fas fa-arrow-right'></i>  Leia a breve descrição curricular dos participantes</a> ", "<a href='https://youtu.be/0ErMSzGbGWM' target='_blank'><i class='fab fa-youtube'></i> Transmissão ao vivo</a>",FALSE,
 
 
   
@@ -57,7 +57,7 @@ tabela_programacao <- tibble::tribble(
 <b>Relator(a) GT 1:</b> Aléx Soria Alves de Farias  <br>
 <b>Relator(a) GT 2:</b> Anelise Gomes da Silva   <br>
 <b>Relator(a) GT 3:</b> Mariana Oliveira Barbosa  <br>
-<b>Relator(a) GT 4:</b> Sergio Mantovani Paiva Pulice", "Em breve", FALSE,
+<b>Relator(a) GT 4:</b> Sergio Mantovani Paiva Pulice", "<a href='https://youtu.be/vIvglbypc7k' target='_blank'><i class='fab fa-youtube'></i> Transmissão ao vivo</a>", FALSE,
 
 # dia 2 -----
 "26/10/2021", "13:00 - 13:50" , "<b>Cafézinho com Vídeo-Pôster:</b> Exibição de teasers dos vídeos-pôsteres enviados a todos os GTs.", " ", FALSE,
@@ -66,7 +66,7 @@ tabela_programacao <- tibble::tribble(
 		<b>Mediador(a):</b> Ana Paula Fracalanza  <br>
 		<b>Palestrante:</b> Mônica Porto <br>
 		<b>Palestrante:</b> Luiz Carlos Beduschi <br><br>
-<a href='https://sicam.com.br/Breve_Descricao_Curricular_Palestrantes_Mesas_Redondas_III_SICAM.pdf' target='_blank'><i class='fas fa-arrow-right'></i> Leia a breve descrição curricular dos participantes</a>", "Em breve", FALSE,
+<a href='https://sicam.com.br/Breve_Descricao_Curricular_Palestrantes_Mesas_Redondas_III_SICAM.pdf' target='_blank'><i class='fas fa-arrow-right'></i> Leia a breve descrição curricular dos participantes</a>", "<a href='https://youtu.be/23CZ4I7vo_w' target='_blank'><i class='fab fa-youtube'></i> Transmissão ao vivo</a>", FALSE,
 
  "26/10/2021", " ", " ", " ", TRUE,
 
@@ -99,7 +99,7 @@ tabela_programacao <- tibble::tribble(
 <b>Relator(a) GT 1:</b> Julianna Colonna   <br>
 <b>Relator(a) GT 2:</b> Isabela Ribeiro Borges de Carvalho   <br>
 <b>Relator(a) GT 3:</b>  Kaue L. dos Santos  <br>
-<b>Relator(a) GT 4:</b> Marcos Tavares", "Em breve", FALSE,
+<b>Relator(a) GT 4:</b> Marcos Tavares", "<a href='https://youtu.be/c0FQN9vJp4M' target='_blank'><i class='fab fa-youtube'></i> Transmissão ao vivo</a>", FALSE,
 
 
 
@@ -110,7 +110,7 @@ tabela_programacao <- tibble::tribble(
 		<b>Mediador(a):</b> Carlos Grohmann   <br>
 		<b>Palestrante:</b> Adreia Pinto  <br>
 		<b>Palestrante:</b> Thelma Krug <br><br>
-<a href='https://sicam.com.br/Breve_Descricao_Curricular_Palestrantes_Mesas_Redondas_III_SICAM.pdf' target='_blank'><i class='fas fa-arrow-right'></i> Leia a breve descrição curricular dos participantes</a>", "Em breve", FALSE,
+<a href='https://sicam.com.br/Breve_Descricao_Curricular_Palestrantes_Mesas_Redondas_III_SICAM.pdf' target='_blank'><i class='fas fa-arrow-right'></i> Leia a breve descrição curricular dos participantes</a>", "<a href='https://youtu.be/NikKGIw1-vg' target='_blank'><i class='fab fa-youtube'></i> Transmissão ao vivo</a>", FALSE,
 
  "27/10/2021", " ", " ", " ", TRUE,
 
@@ -132,15 +132,15 @@ tabela_programacao <- tibble::tribble(
 
  "27/10/2021", "17:05 - 17:30", "<b>3ª Plenária Geral: Apresentação das principais discussões dos GTs</b> <br><br><b>Participantes:</b>  <br>
 <b>Relator(a) GT 9:</b> Igor Ruiz Atake   <br>
-<b>Relator(a) GT 10:</b> Mario Marcelino  ", "Em breve", FALSE,
+<b>Relator(a) GT 10:</b> Mario Marcelino  ", "<a href='https://youtu.be/koogeBIERpU' target='_blank'><i class='fab fa-youtube'></i> Transmissão ao vivo</a>", FALSE,
 
 
  "27/10/2021", " ", "Início da Cerimônia de Encerramento", " ", FALSE,
-"27/10/2021", "17:30 - 18:00", "Homenagem a Professora Neli Aparecida de Mello-Théry (em memória)", " Em breve", FALSE,
+"27/10/2021", "17:30 - 18:00", "Homenagem a Professora Neli Aparecida de Mello-Théry (em memória)", "<a href='https://youtu.be/koogeBIERpU' target='_blank'><i class='fab fa-youtube'></i> Transmissão ao vivo</a>", FALSE,
 
  "27/10/2021", "18:00 - 18:50", "<b>Mesa de Encerramento</b> <br><br><b>Participantes:</b>  <br>
 Alessandra Munduruku   <br>
-Daniel Fonseca de Andrade - Egresso PROCAM  ", "Em breve", FALSE,
+Daniel Fonseca de Andrade - Egresso PROCAM  ", "<a href='https://youtu.be/koogeBIERpU' target='_blank'><i class='fab fa-youtube'></i> Transmissão ao vivo</a>", FALSE,
 
 ) 
 
@@ -168,7 +168,8 @@ programacao_dia_3 <- tabela_programacao %>%
 ```{r}
   reactable::reactable(programacao_dia_1[,1:3] ,
       columns = list(
-    Atividade = colDef(minWidth = 200, html = TRUE)  # overrides the default)
+    Atividade = colDef(minWidth = 200, html = TRUE),
+        `Link de acesso` = colDef( html = TRUE)
     ), searchable = TRUE,
     rowStyle = function(index) {
     if (tabela_programacao[index, "destaque"] == TRUE) {
@@ -183,7 +184,8 @@ programacao_dia_3 <- tabela_programacao %>%
 ```{r}
   reactable::reactable(programacao_dia_2[,1:3] ,
       columns = list(
-    Atividade = colDef(minWidth = 200, html = TRUE)  # overrides the default)
+    Atividade = colDef(minWidth = 200, html = TRUE),
+        `Link de acesso` = colDef( html = TRUE)
     ), searchable = TRUE,
     rowStyle = function(index) {
     if (tabela_programacao[index, "destaque"] == TRUE) {
@@ -200,7 +202,8 @@ programacao_dia_3 <- tabela_programacao %>%
 ```{r}
   reactable::reactable(programacao_dia_3[,1:3] ,
       columns = list(
-    Atividade = colDef(minWidth = 200, html = TRUE)  # overrides the default)
+    Atividade = colDef(minWidth = 200, html = TRUE),
+    `Link de acesso` = colDef( html = TRUE)
     ), searchable = TRUE,
     rowStyle = function(index) {
     if (tabela_programacao[index, "destaque"] == TRUE) {
