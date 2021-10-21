@@ -157,7 +157,7 @@ programacao_dia_3 <- tabela_programacao %>%
 ```
 
 
-## 25/10/2021
+## 25/10/2021 - Conservação, Impactos e Planejamento Ambiental
 
 ```{r}
   reactable::reactable(programacao_dia_1, pagination = FALSE,  columns = list(
@@ -168,7 +168,7 @@ programacao_dia_3 <- tabela_programacao %>%
 ```
 
 
-## 26/10/2021
+## 26/10/2021 - Governança, Políticas Ambientais e Sustentabilidade
 
 ```{r}
   reactable::reactable(programacao_dia_2,  columns = list(
@@ -181,7 +181,7 @@ programacao_dia_3 <- tabela_programacao %>%
 
 
 
-## 27/10/2021
+## 27/10/2021 - Mudanças Climáticas, Geotecnologias e Modelagem
 
 ```{r}
   reactable::reactable(programacao_dia_3,  columns = list(
