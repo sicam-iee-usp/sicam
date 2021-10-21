@@ -17,7 +17,7 @@ library(reactable)
 ```{r echo=FALSE}
 tabela_programacao <- tibble::tribble(
 ~Dia,  ~`Horário`, ~Atividade, ~`Link de acesso`,  ~destaque,
- "25/10/2021", "13:00 - 14:00" , "<b>Cafézinho com Vídeo-Pôster:</b> Exibição de teasers dos vídeos-pôsteres enviados a todos os GTs.", " ", FALSE,
+ "25/10/2021", "13:00 - 13:50" , "<b>Cafézinho com Vídeo-Pôster:</b> Exibição de teasers dos vídeos-pôsteres enviados a todos os GTs.", " ", FALSE,
 
  "25/10/2021", "14:00 - 14:30", "<b>Cerimônia de Abertura.</b> <br><br> <b>Participantes:</b> Alynne Afonso (Representação Discente e Membro da Comissão Organizadora III SICAM),  Roberto Zilles (Diretor do Diretor do Instituto de Energia e Meio Ambiente - IEE/USP), Paulo Sinisgalli (Coordenador do Programa de Pós Graduação em Ciência Ambiental - PROCAM)", "Em breve", FALSE,
 
@@ -60,7 +60,7 @@ tabela_programacao <- tibble::tribble(
 <b>Relator(a) GT 4:</b> Sergio Mantovani Paiva Pulice", "Em breve", FALSE,
 
 # dia 2 -----
-"26/10/2021", "13:00 - 14:00" , "<b>Cafézinho com Vídeo-Pôster:</b> Exibição de teasers dos vídeos-pôsteres enviados a todos os GTs.", " ", FALSE,
+"26/10/2021", "13:00 - 13:50" , "<b>Cafézinho com Vídeo-Pôster:</b> Exibição de teasers dos vídeos-pôsteres enviados a todos os GTs.", " ", FALSE,
 
  "26/10/2021", "14:00 - 15:00", "<b>2ª Mesa Redonda: Governança, Políticas Ambientais e Sustentabilidade</b><br><br>	<b>Participantes: </b><br>
 		<b>Mediador(a):</b> Ana Paula Fracalanza  <br>
@@ -104,7 +104,7 @@ tabela_programacao <- tibble::tribble(
 
 
 # dia 3 -----
-"27/10/2021", "13:00 - 14:00" , "<b>Cafézinho com Vídeo-Pôster:</b> Exibição de teasers dos vídeos-pôsteres enviados a todos os GTs.", " ", FALSE,
+"27/10/2021", "13:00 - 13:50" , "<b>Cafézinho com Vídeo-Pôster:</b> Exibição de teasers dos vídeos-pôsteres enviados a todos os GTs.", " ", FALSE,
 
  "27/10/2021", "14:00 - 15:00", "<b>3ª Mesa Redonda: Mudanças climáticas, geotecnologias e modelagem</b><br><br>	<b>Participantes: </b><br>
 		<b>Mediador(a):</b> Carlos Grohmann   <br>
