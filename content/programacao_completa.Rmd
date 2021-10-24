@@ -48,17 +48,21 @@ tabela_programacao <- tibble::tribble(
  "25/10/2021", "15:40 - 17:00", "<b>GT 2 Alternativas de uso dos recursos naturais e Economia do Meio Ambiente</b> <br><br><b>Coordenador(a):<b> Paulo Sinisgalli <br>
 <b>Debatedor(a):</b> Rafael Chaves<br>
 <b>Relator(a):</b> Anelise Gomes da Silva <br><br>
-<a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a> ", "Apenas para pessoas inscritas", TRUE,
+<a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a> 
+<br><br>
+<a href='https://youtube.com/playlist?list=PLcAjSMjQXfTbP3Q1yZ08kusMhyr8edxjo' target='_blank'><i class='fab fa-youtube'></i><i class='fas fa-arrow-right'></i>Confira os vídeo-pôster</a> ", "Apenas para pessoas inscritas", TRUE,
 
  "25/10/2021", "15:40 - 17:00", "<b>GT 3 Transição Energética e Mudanças Climáticas</b> <br><br><b>Coordenador(a):<b> Drielli Peyerl <br>
 <b>Debatedor(a):</b> Nathalia Capellini<br>
 <b>Relator(a):</b> Mariana Oliveira Barbosa <br><br>
-<a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a> ", "Apenas para pessoas inscritas", TRUE,
+<a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a> <br><br>
+<a href='https://youtube.com/playlist?list=PLcAjSMjQXfTaCE9b7meZeOvBr8YbYqWqr' target='_blank'><i class='fab fa-youtube'></i><i class='fas fa-arrow-right'></i>Confira os vídeo-pôster</a> ", "Apenas para pessoas inscritas", TRUE,
 		
  "25/10/2021", "15:40 - 17:00", "<b>GT 4 Grandes Projetos de Infraestrutura e Impactos Socioambientais</b> <br><br><b>Coordenador(a):<b> Evandro Moretto <br>
 <b>Debatedor(a):</b> Daniel Rondinelli Roquetti <br>
 <b>Relator(a):</b> Sergio Mantovani Paiva Pulice <br><br>
-<a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a> ", "Apenas para pessoas inscritas", TRUE,
+<a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a> <br><br>
+<a href='https://youtube.com/playlist?list=PLcAjSMjQXfTZ6FWzgA4r9Q8hbkjTx27vS' target='_blank'><i class='fab fa-youtube'></i><i class='fas fa-arrow-right'></i>Confira os vídeo-pôster</a> ", "Apenas para pessoas inscritas", TRUE,
 
  "25/10/2021", "17:00 - 17:10", "<b>Intervalo</b>", "", FALSE,
 
@@ -83,26 +87,30 @@ tabela_programacao <- tibble::tribble(
 <b>Coordenador(a)</b>: Eduardo Caldas<br> 
 <b>Debatedor(a):</b> Eduardo Caldas <br>
 <b>Relator(a):</b> Julianna Colonna <br><br>
-<a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a> ", "Apenas para pessoas inscritas", TRUE,
+<a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a>  <br><br>
+<a href='https://youtube.com/playlist?list=PLcAjSMjQXfTbifkMuPEIdmbH9IWFdui_y' target='_blank'><i class='fab fa-youtube'></i><i class='fas fa-arrow-right'></i>Confira os vídeo-pôster</a> ", "Apenas para pessoas inscritas", TRUE,
 
  "26/10/2021", "15:10 - 17:25", "<b>GT 6 Resíduos e Consumo  </b> <br><br>
 <b>Coordenador(a)</b>: Sylmara Dias<br> 
 <b>Debatedor(a):</b> Luciana Ziglio <br>
 <b>Relator(a):</b> Isabela Ribeiro Borges de Carvalho <br><br>
-<a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a> ", "Apenas para pessoas inscritas", TRUE,
+<a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a>   <br><br>
+<a href='https://youtube.com/playlist?list=PLcAjSMjQXfTbH15Efms_YO4tDVMofqr2E' target='_blank'><i class='fab fa-youtube'></i><i class='fas fa-arrow-right'></i>Confira os vídeo-pôster</a> ", "Apenas para pessoas inscritas", TRUE,
 
  "26/10/2021", "15:10 - 17:25", "<b>GT 7 Desafios do Desenvolvimento Sustentável Pós Covid-19 no Brasil e América Latina   </b> <br><br> Apresentação com GT 6 <br><br>
 <b>Coordenador(a)</b>: Pedro Jacobi<br> 
 <b>Debatedor(a):</b> Leandro L. Giatti  <br>
 <b>Relator(a):</b> Kaue L. dos Santos <br><br>
-<a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a> ", "Apenas para pessoas inscritas", TRUE,
+<a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a>    <br><br>
+<a href='https://youtube.com/playlist?list=PLcAjSMjQXfTaPxkfMBI3OI4wDRSK4toLD' target='_blank'><i class='fab fa-youtube'></i><i class='fas fa-arrow-right'></i>Confira os vídeo-pôster</a> ", "Apenas para pessoas inscritas", TRUE,
 
 
  "26/10/2021", "15:10 - 17:25", "<b>GT 8 Mudanças Climáticas, Vulnerabilidade e Riscos Socioambientais   </b> <br><br> 
 <b>Coordenador(a)</b>: Pedro Torres<br> 
 <b>Debatedor(a):</b> Fabiana Barbi  <br>
 <b>Relator(a):</b> Marcos Tavares <br><br>
-<a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a> ", "Apenas para pessoas inscritas", TRUE,
+<a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a>     <br><br>
+<a href='https://youtube.com/playlist?list=PLcAjSMjQXfTbUDwm3CVCNhkR3apD56cC6' target='_blank'><i class='fab fa-youtube'></i><i class='fas fa-arrow-right'></i>Confira os vídeo-pôster</a> ", "Apenas para pessoas inscritas", TRUE,
 
  "26/10/2021", "17:30 - 18:20", "<b>2ª Plenária Geral: Apresentação das principais discussões dos GTs</b> <br><br><b>Participantes:</b>  <br>
 <b>Relator(a) GT 1:</b> Julianna Colonna   <br>
