@@ -40,34 +40,34 @@ tabela_programacao <- tibble::tribble(
   
   
 
- "25/10/2021", "15:40 - 17:00", "<b>GT 1 Áreas Protegidas, Patrimônio Cultural, Povos Indígenas e Comunidades Tradicionais</b> <br><br><b>Coordenador(a):<b> Sueli Furlan <br>
+ "25/10/2021", "15:40 - 17:15", "<b>GT 1 Áreas Protegidas, Patrimônio Cultural, Povos Indígenas e Comunidades Tradicionais</b> <br><br><b>Coordenador(a):<b> Sueli Furlan <br>
 <b>Debatedor(a):</b> Neiva Araujo<br>
-<b>Relator(a):</b> Aléx Soria Alves de Farias <br><br>
+<b>Relator(a):</b> Neiva Araujo <br><br>
 <a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a> ", "Apenas para pessoas inscritas", TRUE,
 
- "25/10/2021", "15:40 - 17:00", "<b>GT 2 Alternativas de uso dos recursos naturais e Economia do Meio Ambiente</b> <br><br><b>Coordenador(a):<b> Paulo Sinisgalli <br>
+ "25/10/2021", "15:40 - 17:15", "<b>GT 2 Alternativas de uso dos recursos naturais e Economia do Meio Ambiente</b> <br><br><b>Coordenador(a):<b> Paulo Sinisgalli <br>
 <b>Debatedor(a):</b> Rafael Chaves<br>
 <b>Relator(a):</b> Anelise Gomes da Silva <br><br>
 <a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a> 
 <br><br>
 <a href='https://youtube.com/playlist?list=PLcAjSMjQXfTbP3Q1yZ08kusMhyr8edxjo' target='_blank'><i class='fab fa-youtube'></i><i class='fas fa-arrow-right'></i>Confira os vídeo-pôster</a> ", "Apenas para pessoas inscritas", TRUE,
 
- "25/10/2021", "15:40 - 17:00", "<b>GT 3 Transição Energética e Mudanças Climáticas</b> <br><br><b>Coordenador(a):<b> Drielli Peyerl <br>
+ "25/10/2021", "15:40 - 17:15", "<b>GT 3 Transição Energética e Mudanças Climáticas</b> <br><br><b>Coordenador(a):<b> Drielli Peyerl <br>
 <b>Debatedor(a):</b> Nathalia Capellini<br>
 <b>Relator(a):</b> Mariana Oliveira Barbosa <br><br>
 <a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a> <br><br>
 <a href='https://youtube.com/playlist?list=PLcAjSMjQXfTaCE9b7meZeOvBr8YbYqWqr' target='_blank'><i class='fab fa-youtube'></i><i class='fas fa-arrow-right'></i>Confira os vídeo-pôster</a> ", "Apenas para pessoas inscritas", TRUE,
 		
- "25/10/2021", "15:40 - 17:00", "<b>GT 4 Grandes Projetos de Infraestrutura e Impactos Socioambientais</b> <br><br><b>Coordenador(a):<b> Evandro Moretto <br>
+ "25/10/2021", "15:40 - 17:15", "<b>GT 4 Grandes Projetos de Infraestrutura e Impactos Socioambientais</b> <br><br><b>Coordenador(a):<b> Evandro Moretto <br>
 <b>Debatedor(a):</b> Daniel Rondinelli Roquetti <br>
 <b>Relator(a):</b> Sergio Mantovani Paiva Pulice <br><br>
 <a href='/programacao_apresentacoes_orais/'><i class='fas fa-chalkboard-teacher'></i><i class='fas fa-arrow-right'></i>Confira a programação de apresentações orais</a> <br><br>
 <a href='https://youtube.com/playlist?list=PLcAjSMjQXfTZ6FWzgA4r9Q8hbkjTx27vS' target='_blank'><i class='fab fa-youtube'></i><i class='fas fa-arrow-right'></i>Confira os vídeo-pôster</a> ", "Apenas para pessoas inscritas", TRUE,
 
- "25/10/2021", "17:00 - 17:10", "<b>Intervalo</b>", "", FALSE,
+ "25/10/2021", "17:15 - 17:20", "<b>Intervalo</b>", "", FALSE,
 
- "25/10/2021", "17:10 - 18:00", "<b>1ª Plenária Geral: Apresentação das principais discussões dos GTs</b> <br><br><b>Participantes:</b>  <br>
-<b>Relator(a) GT 1:</b> Aléx Soria Alves de Farias  <br>
+ "25/10/2021", "17:20 - 18:10", "<b>1ª Plenária Geral: Apresentação das principais discussões dos GTs</b> <br><br><b>Participantes:</b>  <br>
+<b>Relator(a) GT 1:</b> Neiva Araujo  <br>
 <b>Relator(a) GT 2:</b> Anelise Gomes da Silva   <br>
 <b>Relator(a) GT 3:</b> Mariana Oliveira Barbosa  <br>
 <b>Relator(a) GT 4:</b> Sergio Mantovani Paiva Pulice", "<a href='https://youtu.be/vIvglbypc7k' target='_blank'><i class='fab fa-youtube'></i> Transmissão ao vivo</a>", FALSE,
