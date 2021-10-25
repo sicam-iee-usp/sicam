@@ -17,11 +17,11 @@ knitr::opts_chunk$set(echo = FALSE)
 Facilitação gráfica por [<i class="fab fa-instagram"></i> Renata Utsunomiya](https://www.instagram.com/mon_arte_pensamento_visual/).
 
 ```{r echo=FALSE, out.width="90%", fig.align='center'}
-knitr::include_graphics("facilitacao-grafica-2510-1.png")
+knitr::include_graphics("https://sicam.com.br/facilitacao-grafica-2510-1.png")
 
-knitr::include_graphics("facilitacao-grafica-2510-2.png")
+knitr::include_graphics("https://sicam.com.br/facilitacao-grafica-2510-2.png")
 
-knitr::include_graphics("facilitacao-grafica-2510-3.png")
+knitr::include_graphics("https://sicam.com.br/facilitacao-grafica-2510-3.png")
 ```
 
 
