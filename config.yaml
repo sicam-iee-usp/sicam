@@ -25,13 +25,17 @@ menu:
       url: /programacao_completa/
       weight: 2
     - parent: evento
+      name: Facilitação Gráfica
+      url: /facilitacao-grafica/
+      weight: 3
+    - parent: evento
       name: Eixos Temáticos
       url: /eixos-tematicos/
-      weight: 3
+      weight: 4
     - identifier: blog
       name: Notícias
       url: /blog/
-      weight: 3
+      weight: 4
     - identifier: inscricao
       name: Inscrição
       url: https://forms.gle/sew1gi3Bojd2RVEu7
@@ -39,7 +43,7 @@ menu:
     - parent: evento
       name: Equipe
       url: /equipe/
-      weight: 3
+      weight: 4
     - parent: evento
       name: Submissão de trabalhos
       url: /submissao/

@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-Facilitação gráfica por [<i class="fab fa-instagram"></i>Renata Utsunomiya](https://www.instagram.com/mon_arte_pensamento_visual/) e [<i class="fab fa-instagram"></i>Raissa Grecco](https://instagram.com/raissagrecco).
+### Facilitação gráfica por [<i class="fab fa-instagram"></i>Renata Utsunomiya](https://www.instagram.com/mon_arte_pensamento_visual/) e [<i class="fab fa-instagram"></i>Raissa Grecco](https://instagram.com/raissagrecco).
 
 
 ## 25/10/2021 - Conservação, Impactos e Planejamento Ambiental 
