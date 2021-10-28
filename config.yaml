@@ -32,14 +32,14 @@ menu:
       name: Eixos Temáticos
       url: /eixos-tematicos/
       weight: 4
-    - identifier: blog
-      name: Notícias
-      url: /blog/
-      weight: 4
-    - identifier: inscricao
-      name: Inscrição
-      url: https://forms.gle/sew1gi3Bojd2RVEu7
-      weight: 4
+    # - identifier: blog
+    #   name: Notícias
+    #   url: /blog/
+    #   weight: 4
+    # - identifier: inscricao
+    #   name: Inscrição
+    #   url: https://forms.gle/sew1gi3Bojd2RVEu7
+    #   weight: 4
     - parent: evento
       name: Equipe
       url: /equipe/
@@ -119,9 +119,9 @@ params:
     enable: yes
     icon: far fa-file-alt
     link_text: Clique aqui
-    link_url: 'https://forms.gle/sew1gi3Bojd2RVEu7'
-    subtitle: Preencha o formulário para se inscrever!
-    title: Inscreva-se!
+    link_url: 'https://www.youtube.com/channel/UCHzIFGixQBeL2zvAdo35O7A/videos'
+    subtitle: Confira os vídeos do evento!
+    title: Inscrições encerradas!
   style: green
   testimonials:
     enable: yes
