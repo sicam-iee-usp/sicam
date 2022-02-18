@@ -12,6 +12,10 @@ menu:
       name: Página Inicial
       url: /
       weight: 1
+    - identifier: blog
+      name: Notícias
+      url: /blog/
+      weight: 2
     - identifier: evento
       name: Sobre o evento
       url: #
