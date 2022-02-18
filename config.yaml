@@ -25,6 +25,10 @@ menu:
       url: /programacao_completa/
       weight: 2
     - parent: evento
+      name: Anais
+      url: /anais-iii-sicam.pdf
+      weight: 3
+    - parent: evento
       name: Facilitação Gráfica
       url: /facilitacao-grafica/
       weight: 3
