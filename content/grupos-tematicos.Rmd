@@ -1,5 +1,5 @@
 ---
-title: "Eixos temáticos"
+title: "Grupos temáticos"
 output: html_document
 ---
 
@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 
-Nesta terceira edição, o SICAM conta com três grandes eixos temáticos e onze  grupos temáticos. Os eixos temáticos serão o tema central de cada um dos três dias do evento. 
+Nesta quarta edição, o SICAM conta com onze grupos temáticos. 
 
 ```{r include=FALSE}
 arquivos <- list.files("../data/testimonials/", full.names = TRUE)
@@ -33,9 +33,7 @@ gts$numero_gt <- as.numeric(gts$numero_gt)
 num_tematica_central <- unique(gts$tematica_central)
 
 for (tematica in 1:length(num_tematica_central)) {
-  
-  cat("## Eixo temático:", num_tematica_central[tematica], "\n\n")
-  
+
   num_gts <- gts %>%
     dplyr::filter(tematica_central == num_tematica_central[tematica]) %>% 
     dplyr::arrange(numero_gt) %>% 
@@ -54,22 +52,22 @@ for (tematica in 1:length(num_tematica_central)) {
     
     cat("### GT ",  num_gts[gt], "- ", nome_gt , "\n\n")
     
-    cat(
-      "**Coordenação: **",
-      dplyr::pull(infos_gt, name),
-      ' <a href=',
-      dplyr::pull(infos_gt, lattes),
-      ' target="_blank"><i class="ai ai-lattes"></i></a>
-        <a href=',
-      dplyr::pull(infos_gt, orcid),
-      ' target="_blank"> <i class="ai ai-orcid"></i></a>',
-      " \n ",
-      dplyr::pull(infos_gt, position),
-       " \n ",
-       "**Descrição: **",
-      dplyr::pull(infos_gt, descricao),
-      "\n\n"
-    )
+    # cat(
+    #   "**Coordenação: **",
+    #   dplyr::pull(infos_gt, name),
+    #   ' <a href=',
+    #   dplyr::pull(infos_gt, lattes),
+    #   ' target="_blank"><i class="ai ai-lattes"></i></a>
+    #     <a href=',
+    #   dplyr::pull(infos_gt, orcid),
+    #   ' target="_blank"> <i class="ai ai-orcid"></i></a>',
+    #   " \n ",
+    #   dplyr::pull(infos_gt, position),
+    #    " \n ",
+    #    "**Descrição: **",
+    #   dplyr::pull(infos_gt, descricao),
+    #   "\n\n"
+    # )
     
     
   }

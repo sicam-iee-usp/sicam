@@ -9,28 +9,31 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-```{r include=FALSE}
-library(magrittr)
-equipe <- readr::read_csv("equipe_comissao_organizadora.csv")
-```
-
 ## Comissão Organizadora
 
-```{r echo=FALSE, results="asis"}
- comissao_organizadora <- equipe %>% 
-  dplyr::arrange(nome) %>% 
-  dplyr::mutate(vinculo = glue::glue("{vinculo} no PROCAM/IEE/USP")) %>% 
- 
-    dplyr::mutate(texto = glue::glue("<li> **{nome}** - {vinculo}
-                                     <a href='mailto:{email}'><i class='far fa-envelope'></i></a></li> <br>")) %>% 
-    dplyr::select(texto) %>% 
-    dplyr::pull()
+-   Ágata Grazieli dos Santos Brito - [agatabrito\@usp.br](mailto:agatabrito@usp.br)
 
-  cat( comissao_organizadora)
-  
+-   Alana Belei - [alana.belei\@alumni.usp.br](mailto:alana.belei@alumni.usp.br)
 
-```
+-   Barbara de Moura Banzanato - [barbarabanzanato\@usp.br](mailto:barbarabanzanato@usp.br)
 
+-   Beatriz Milz - [beatriz.milz\@usp.br](mailto:beatriz.milz@usp.br)
+
+-   Camila Haddad - [camila.haddad\@usp.br](mailto:camila.haddad@usp.br)
+
+-   Gisleine Silvana Gasparotto - [gisa.gasparotto\@usp.br](mailto:gisa.gasparotto@usp.br)
+
+-   Gustavo Leite Golçalves - [gustavoleite\@usp.br](mailto:gustavoleite@usp.br)
+
+-   Henrique Ryosuke Tateishi - [hrtateishi\@usp.br](mailto:hrtateishi@usp.br)
+
+-   Jeferson Brás de Lima - [jbras\@usp.br](mailto:jbras@usp.br)
+
+-   Letícia Kaori Shimabukuro - [leticia.shimabukuro\@alumni.usp.br](mailto:leticia.shimabukuro@usp.br)
+
+-   Rodrigo Ramirez Frederico - [rodrigo.frederico\@usp.br](mailto:rodrigo.frederico@usp.br)
+
+-   Silvia Sayuri Mandai - [silvia.mandai\@usp.br](mailto:silvia.mandai@usp.br)
 
 ## Comitê Científico
 

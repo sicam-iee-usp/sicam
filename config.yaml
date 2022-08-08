@@ -1,5 +1,5 @@
 baseurl: https://sicam.com.br/
-title: III SICAM
+title: IV SICAM
 theme: hugo-universal-theme
 languageCode: pt-br
 defaultContentLanguage: "pt-br"
@@ -12,33 +12,26 @@ menu:
       name: Página Inicial
       url: /
       weight: 1
-    - identifier: blog
-      name: Notícias
-      url: /blog/
-      weight: 2
+    # - identifier: blog
+    #   name: Notícias
+    #   url: /blog/
+    #   weight: 2
     - identifier: evento
       name: Sobre o evento
       url: #
       weight: 2
     - parent: evento
-      name: Sobre o III SICAM
+      name: Sobre o IV SICAM
       url: /sobre-o-evento/
       weight: 1
+    # - parent: evento
+    #   name: Programação Completa
+    #   url: /programacao_completa/
+    #   weight: 2
+
     - parent: evento
-      name: Programação Completa
-      url: /programacao_completa/
-      weight: 2
-    - parent: evento
-      name: Anais
-      url: /anais-iii-sicam.pdf
-      weight: 3
-    - parent: evento
-      name: Facilitação Gráfica
-      url: /facilitacao-grafica/
-      weight: 3
-    - parent: evento
-      name: Eixos Temáticos
-      url: /eixos-tematicos/
+      name: Grupos Temáticos
+      url: /grupos-tematicos/
       weight: 4
     # - identifier: blog
     #   name: Notícias
@@ -60,14 +53,31 @@ menu:
       name: Submissão
       url: /submissao/
       weight: 2
-    - parent: evento
+    - parent: ed-anteriores
       name: Edições Anteriores
       url: /edicoes-anteriores/
       weight: 5
-    - identifier: faq
-      name: FAQ
-      url: /faq/
-      weight: 3
+    - parent: ed-anteriores
+      name: Anais - III SICAM
+      url: /anais-iii-sicam.pdf
+      weight: 6
+    - parent: ed-anteriores
+      name: Facilitação Gráfica - III SICAM
+      url: /facilitacao-grafica/
+      weight: 7
+    - parent: ed-anteriores
+      name: Vídeos - III SICAM
+      url: https://www.youtube.com/channel/UCHzIFGixQBeL2zvAdo35O7A/videos
+      weight: 8
+
+    - identifier: ed-anteriores
+      name: Edições anteriores
+      url: #
+      weight: 4
+    # - identifier: faq
+    #   name: FAQ
+    #   url: /faq/
+    #   weight: 3
 
 
 
@@ -86,7 +96,7 @@ menu:
       weight: 3
     - name: Email
       pre: <i class='fas fa-2x fa-envelope'></i>
-      url:  mailto:iii.sicam.2021@gmail.com
+      url:  mailto:sicam.iee.usp@gmail.com
       weight: 4
     - name: Youtube
       pre: <i class='fab fa-2x fa-youtube'></i>
@@ -94,8 +104,8 @@ menu:
       weight: 1
 params:
   about_us: <p>O SICAM tem como principal objetivo promover a integração das diferentes temáticas de pesquisas do PROCAM, assim como, promover um diálogo interdisciplinar que  rege a Ciência Ambiental com  os diversos profissionais que atuam nessa área do conhecimento.  </p>
-  address: "<p class=\"text-uppercase\"><strong>Email:</strong> <a href='mailto:iii.sicam.2021@gmail.com'>iii.sicam.2021@gmail.com</a> <br> <strong>Endereço:</strong> <Br><a href='http://www.iee.usp.br/' target='_blank'>Instituto de Energia e Ambiente - Universidade de São Paulo</a> <br> Av. Prof. Luciano Gualberto, 1289 - Butantã, São Paulo - SP, 05508-010</p>"
-  author: III SICAM
+  address: "<p class=\"text-uppercase\"><strong>Email:</strong> <a href='mailto:sicam.iee.usp@gmail.com'>sicam.iee.usp@gmail.com</a> <br> <strong>Endereço:</strong> <Br><a href='http://www.iee.usp.br/' target='_blank'>Instituto de Energia e Ambiente - Universidade de São Paulo</a> <br> Av. Prof. Luciano Gualberto, 1289 - Butantã, São Paulo - SP, 05508-010</p>"
+  author: IV SICAM
   carousel:
     enable: yes
   clients:
@@ -103,10 +113,10 @@ params:
     subtitle: ''
     title: Realização
   contact_form_ajax: no
-  copyright: Copyright (c) 2021, III SICAM; todos os direitos reservados.
+  copyright: Copyright (c) 2021-2022, IV SICAM; todos os direitos reservados.
   date_format: 2 de January de 2006
-  default_sharing_image: img/Logo_cor.png
-  defaultDescription: III Simpósio Interdisciplinar de Ciência Ambiental
+  default_sharing_image: img/logo.png
+  defaultDescription: IV Simpósio Interdisciplinar de Ciência Ambiental
   defaultKeywords:
     - SICAM
     - PROCAM
@@ -117,22 +127,22 @@ params:
   features:
     enable: yes
   logo: img/logo.png
-  logo_small: img/logo-small.png
+  logo_small: img/logo.png
   mainSections: blog
   recent_posts:
-    enable: yes
+    enable: false
     subtitle:
     title: Notícias
   see_more:
     enable: yes
     icon: far fa-file-alt
     link_text: Clique aqui
-    link_url: 'https://www.youtube.com/channel/UCHzIFGixQBeL2zvAdo35O7A/videos'
-    subtitle: Confira os vídeos do evento!
-    title: Inscrições encerradas!
+    link_url: '/submissao/'
+#    subtitle: Submeta o resumo expandido até 04/09/2022!
+    title: Submissões abertas!
   style: green
   testimonials:
-    enable: yes
+    enable: false
     subtitle:
     title: Eixos Temáticos
   topbar:

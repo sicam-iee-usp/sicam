@@ -9,6 +9,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
+### **[III SICAM - III Simpósio Interdisciplinar de Ciência Ambiental](/iii-sicam/)** - 25 à 27 de outubro de 2021
+  - Confira os <a href="/anais-iii-sicam.pdf" target="_blank">Anais do III SICAM</a>
+
 ### **[II SICAM - II Simpósio Interdisciplinar de Ciência Ambiental](/ii-sicam/)** - 14 à 16 de setembro de 2016
   - Confira os <a href="/anais-ii-sicam.pdf" target="_blank">Anais do II SICAM</a>
 
