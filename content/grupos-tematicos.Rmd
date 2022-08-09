@@ -52,22 +52,22 @@ for (tematica in 1:length(num_tematica_central)) {
     
     cat("### GT ",  num_gts[gt], "- ", nome_gt , "\n\n")
     
-    # cat(
-    #   "**Coordenação: **",
-    #   dplyr::pull(infos_gt, name),
-    #   ' <a href=',
-    #   dplyr::pull(infos_gt, lattes),
-    #   ' target="_blank"><i class="ai ai-lattes"></i></a>
-    #     <a href=',
-    #   dplyr::pull(infos_gt, orcid),
-    #   ' target="_blank"> <i class="ai ai-orcid"></i></a>',
-    #   " \n ",
-    #   dplyr::pull(infos_gt, position),
-    #    " \n ",
-    #    "**Descrição: **",
-    #   dplyr::pull(infos_gt, descricao),
-    #   "\n\n"
-    # )
+    cat(
+      # "**Coordenação: **",
+      # dplyr::pull(infos_gt, name),
+      # ' <a href=',
+      # dplyr::pull(infos_gt, lattes),
+      # ' target="_blank"><i class="ai ai-lattes"></i></a>
+      #   <a href=',
+      # dplyr::pull(infos_gt, orcid),
+      # ' target="_blank"> <i class="ai ai-orcid"></i></a>',
+      # " \n ",
+      # dplyr::pull(infos_gt, position),
+      #  " \n ",
+       "**Descrição: **",
+      dplyr::pull(infos_gt, descricao),
+      "\n\n"
+    )
     
     
   }
