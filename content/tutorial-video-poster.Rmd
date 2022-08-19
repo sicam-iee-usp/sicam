@@ -10,9 +10,9 @@ knitr::opts_chunk$set(echo = FALSE)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 
-Prezados participantes do III SICAM, 
+Prezados participantes do IV SICAM, 
 
-Abaixo segue as regras gerais, assim como, um tutorial que visa apoiar a edição e envio do vídeo-pôster pelos autores que tiveram seus trabalhos aprovados no III SICAM e escolheram, previamente, essa forma de apresentação ou tiveram seus trabalhos remanejados para esta modalidade.
+Abaixo segue as regras gerais, assim como, um tutorial que visa apoiar a edição e envio do vídeo-pôster pelos autores que tiveram seus trabalhos aprovados no IV SICAM e escolheram, previamente, essa forma de apresentação ou tiveram seus trabalhos remanejados para esta modalidade.
 
 Regras Gerais:
 
@@ -72,7 +72,7 @@ Dicas para edição:
 
 ## Referências:
 
-Abaixo, está a indicação de alguns vídeos, incluindo tutoriais montados para outros eventos, que podem ajudar nos processos de gravação e edição dos vídeo-pôster, mas vale lembrar as regras gerais do III SICAM e as dicas anteriormente mencionadas neste documento.
+Abaixo, está a indicação de alguns vídeos, incluindo tutoriais montados para outros eventos, que podem ajudar nos processos de gravação e edição dos vídeo-pôster, mas vale lembrar as regras gerais do IV SICAM e as dicas anteriormente mencionadas neste documento.
 
 - Apresentação narrada: https://www.youtube.com/watch?v=r691-Bdya7k&list=PLV1a0I9ysigGKLj-VbJalc6OlS-6cFVvo&index=3.
 
