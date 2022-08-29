@@ -15,6 +15,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 -   Alana Belei - [alana.belei\@alumni.usp.br](mailto:alana.belei@alumni.usp.br)
 
+-   Alynne Affonso - [alynne.affonso\@usp.br](mailto:alynne.affonso@usp.br)
+
 -   Barbara de Moura Banzanato - [barbarabanzanato\@usp.br](mailto:barbarabanzanato@usp.br)
 
 -   Beatriz Milz - [beatriz.milz\@usp.br](mailto:beatriz.milz@usp.br)
@@ -27,9 +29,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 -   Henrique Ryosuke Tateishi - [hrtateishi\@usp.br](mailto:hrtateishi@usp.br)
 
+-   Isabela Ribeiro - [isabelarbc\@usp.br](mailto:isabelarbc@usp.br)
+
 -   Jeferson Brás de Lima - [jbras\@usp.br](mailto:jbras@usp.br)
 
 -   Letícia Kaori Shimabukuro - [leticia.shimabukuro\@alumni.usp.br](mailto:leticia.shimabukuro@usp.br)
+
+-   Luiza Muccillo - [luizamuccillo\@alumni.usp.br](mailto:luizamuccillo@usp.br)
+
+-   Lyvia Amado - [lyvia.oliveira\@alumni.usp.br](mailto:lyvia.oliveira@usp.br)
 
 -   Rodrigo Ramirez Frederico - [rodrigo.frederico\@usp.br](mailto:rodrigo.frederico@usp.br)
 
