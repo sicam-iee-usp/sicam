@@ -2511,18 +2511,20 @@ fieldset[disabled] .btn-template-primary.active {
 #get-it p {
   margin: 0 0 20px;
 }
+
 #footer {
-  background: #545454;
+  background: #dfdfdf;
   padding: 50px 0;
-  color: #999999;
+  color: #575757;
 }
+
 #footer h1,
 #footer h2,
 #footer h3,
 #footer h4,
 #footer h5,
 #footer h6 {
-  color: #eeeeee;
+  color: #4f6b57;
 }
 #footer h4 {
   font-size: 16px;
@@ -2608,14 +2610,15 @@ fieldset[disabled] .btn-template-primary.active {
   color: #c9e265;
 }
 #copyright {
-  background: #333;
-  color: #ccc;
+  background: #fff;
+  color: #595959;
   padding: 10px 0;
   font-size: 12px;
   line-height: 20px;
 }
 #copyright p {
   margin: 0;
+  line-height: 2em;
 }
 @media (max-width: 991px) {
   #copyright p {
@@ -3571,12 +3574,12 @@ a.list-group-item.active > .badge,
 
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive {
     display: block;
-    max-width: 60%;!important
+    max-width: 100%;!important
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 60%; !important
+    width: 100%; !important
 }
 
 .background-pentagon h2{
