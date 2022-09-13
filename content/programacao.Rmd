@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-## **30 ANOS DE RIO-92: A CONTRIBUIÇÃO DO PROCAM PARA A CONSTRUÇÃO DA AGENDA AMBIENTAL NO BRASIL**
+## **30 ANOS DE RIO-92: A CONTRIBUIÇÃO DA UNIVERSIDADE DE SÃO PAULO PARA A CONSTRUÇÃO DA AGENDA AMBIENTAL NO BRASIL**
 
 \
 
