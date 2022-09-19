@@ -136,7 +136,7 @@ params:
   see_more:
     enable: yes
     icon: far fa-file-alt
-    link_text: Clique aqui
+    link_text: "Prazo prorrogado até 25/09/2022!"
     link_url: '/submissao/'
 #    subtitle: Submeta o resumo expandido até 04/09/2022!
     title: Submissões abertas!

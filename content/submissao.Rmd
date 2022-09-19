@@ -87,7 +87,7 @@ No ato da submissão do resumo expandido, deverão ser enviados dois arquivos: u
 
 Cada um destes dois arquivos devem possuir o mesmo nome e com palavras separadas por underscore ("\_"), por exemplo, "Ciencia_Ambiental_SICAM.docx" (para o arquivo com nomes e afiliações dos autores) e "Ciencia_Ambiental_SICAM.pdf" (para o arquivo sem nomes e afiliações dos autores).
 
-Ambos os arquivos devem ser anexados ao formulário de Inscrição (Link: <https://forms.gle/P1a2weCroQHZVLGM6> ) até às 23h59min do dia 18 de setembro de 2022. A data de publicação dos aceites e anais será disponibilizada no site do evento (Link: <https://sicam.com.br/> ).
+Ambos os arquivos devem ser anexados ao formulário de Inscrição (Link: <https://forms.gle/P1a2weCroQHZVLGM6> ) até às 23h59min do dia 25 de setembro de 2022. A data de publicação dos aceites e anais será disponibilizada no site do evento (Link: <https://sicam.com.br/> ).
 
 <center><a href="https://docs.google.com/forms/d/e/1FAIpQLSf3YTizMCqrKLIf9kHC7kUxH1_OX6kPDQ2lKkKN4CJGatIHSQ/viewform" target="_blank"><button type="button" class="btn btn-success">Acesse o formulário de <br> submissão! </button></center>
 
