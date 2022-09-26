@@ -7,6 +7,10 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+<center>
+# Submissões encerradas!
+</center>
+
 ## Datas importantes
 
 O cronograma será atualizado em breve!

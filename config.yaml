@@ -49,10 +49,6 @@ menu:
       name: Submissão de trabalhos
       url: /submissao/
       weight: 4
-    - identifier: submissao
-      name: Submissão
-      url: /submissao/
-      weight: 2
     - parent: ed-anteriores
       name: Edições Anteriores
       url: /edicoes-anteriores/
@@ -136,10 +132,10 @@ params:
   see_more:
     enable: yes
     icon: far fa-file-alt
-    link_text: "Prazo prorrogado até 25/09/2022!"
-    link_url: '/submissao/'
+    link_text: "Clique aqui!"
+    link_url: 'https://docs.google.com/forms/d/e/1FAIpQLSf3YTizMCqrKLIf9kHC7kUxH1_OX6kPDQ2lKkKN4CJGatIHSQ/viewform'
 #    subtitle: Submeta o resumo expandido até 04/09/2022!
-    title: Submissões abertas!
+    title: Inscreva-se!
   style: green
   testimonials:
     enable: false
