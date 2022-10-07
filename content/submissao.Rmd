@@ -8,7 +8,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <center>
+
 # Submissões encerradas!
+
+A divulgação dos resumos aprovados acontece no dia **17 de outubro**.
+
 </center>
 
 ## Datas importantes
