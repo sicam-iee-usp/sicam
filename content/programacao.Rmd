@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Prof. Roberto Zilles -- Diretor IEE/USP
 
-### **MESA REDONDA 1-- A CONTRIBUIÇÃO DA UNIVERSIDADE DE SÃO PAULO PARA O DEBATE AMBIENTAL NO BRASIL (9:15-12:30 hs)**
+### **MESA REDONDA 1-- A CONTRIBUIÇÃO DA UNIVERSIDADE DE SÃO PAULO PARA O DEBATE AMBIENTAL NO BRASIL (9:15-12:30 hs)** {#mesa-redonda-1}
 
 Em junho de 2022, completaram-se 30 anos da realização da Conferência das Nações Unidas para o Meio Ambiente e Desenvolvimento (Eco-92 ou Rio-92), um marco para o debate global sobre desenvolvimento sustentável. A Rio-92 mobilizou 179 chefes de Estado, que aprovaram as principais convenções das Nações Unidas que vêm influenciando a governança ambiental global desde então: as Convenções do Clima e da Biodiversidade, a Agenda 21, a Declaração do Rio para Meio Ambiente e Desenvolvimento, e a Declaração de Princípios para Florestas. O Fórum das ONGs, organizado em paralelo pela sociedade civil, cobrou compromissos das lideranças mundiais e estimulou a ampliação do debate ambiental para outros segmentos sociais.
 
@@ -100,7 +100,7 @@ Os eixos centrais da mesa serão sobre um balanço das pautas socioambientais na
 
 -   Bruno Batista de Souza - Educador social - Saberes Ambiental, Jd. Damasceno, Brasilândia-SP
 
--   Anthony Guarany - Liderança Indígena Guarani da Tenondé Porã e da Yvy Porã no Jaraguá-SP
+-   Anthony Guarany - Ativista Guarani da Terra Indígena Jaraguá - SP
 
 #### Moderadora:
 
@@ -110,7 +110,7 @@ Vasta experiência na liderança e facilitação de processos que envolvam front
 
 
 <center>
-![](https://sicam.com.br/img/encerramento.png)
+![](https://sicam.com.br/img/encerramento.jpg)
 </center>
 <br>
 
