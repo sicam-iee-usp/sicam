@@ -25,8 +25,12 @@ menu:
       url: /sobre-o-evento/
       weight: 1
     - parent: evento
-      name: Programação
+      name: Programação - Abertura e Encerramento
       url: /programacao/
+      weight: 3
+    - parent: evento
+      name: Programação Completa
+      url: /programacao-completa/
       weight: 2
 
     - parent: evento
