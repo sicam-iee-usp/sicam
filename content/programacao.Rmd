@@ -11,9 +11,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## **30 ANOS DE RIO-92: A CONTRIBUIÇÃO DA UNIVERSIDADE DE SÃO PAULO PARA A CONSTRUÇÃO DA AGENDA AMBIENTAL NO BRASIL**
 
-\
 
-### **EVENTO DE ABERTURA - 24/10/2022**
+
+## **EVENTO DE ABERTURA - 24/10/2022**
 
 **Local:** Auditório do Instituto de Energia e Ambiente da da Universidade de São Paulo. Avenida Professor Luciano Gualberto, 1289 - Cidade Universitária - Butantã - São Paulo/SP\
 - Com transmissão pelo YouTube
@@ -26,7 +26,7 @@ Prof. Roberto Zilles -- Diretor IEE/USP
 
 Em junho de 2022, completaram-se 30 anos da realização da Conferência das Nações Unidas para o Meio Ambiente e Desenvolvimento (Eco-92 ou Rio-92), um marco para o debate global sobre desenvolvimento sustentável. A Rio-92 mobilizou 179 chefes de Estado, que aprovaram as principais convenções das Nações Unidas que vêm influenciando a governança ambiental global desde então: as Convenções do Clima e da Biodiversidade, a Agenda 21, a Declaração do Rio para Meio Ambiente e Desenvolvimento, e a Declaração de Princípios para Florestas. O Fórum das ONGs, organizado em paralelo pela sociedade civil, cobrou compromissos das lideranças mundiais e estimulou a ampliação do debate ambiental para outros segmentos sociais.
 
-Dois anos antes da realização da Rio-92, a primeira turma do Programa de Pós-Graduação em Ciência Ambiental (PROCAM) iniciava suas atividades na USP, em uma iniciativa da \"formação de pessoal qualificado para o exercício integrado de pesquisa e ensino nos campos do conhecimento correlatos a problemas ambientais, englobando ciências humanas, ciências da vida, ciências da terra, ciências exatas e ciências aplicadas\" (Veiga, 1998:12). Embora outras inciativas interdisciplinares já fossem desenvolvidas em unidades da USP, como a Comissão de Estudos de Problemas Ambientais (CEPA) e o Projeto Floram no Instituto de Estudos Avançados (IEA) (Marcovitch 1998), a criação do PROCAM como um programa inter-unidades vinculado diretamente à Pró-Reitoria de Pós-Graduação (PRPG) refletia o momento histórico singular vivido pelo país. Nestes 30 anos de atuação, o programa formou 335 mestres e 114 doutores, sendo 11 doutorados diretos.
+Dois anos antes da realização da Rio-92, a primeira turma do Programa de Pós-Graduação em Ciência Ambiental (PROCAM) iniciava suas atividades na USP, em uma iniciativa da "formação de pessoal qualificado para o exercício integrado de pesquisa e ensino nos campos do conhecimento correlatos a problemas ambientais, englobando ciências humanas, ciências da vida, ciências da terra, ciências exatas e ciências aplicadas" (Veiga, 1998:12). Embora outras inciativas interdisciplinares já fossem desenvolvidas em unidades da USP, como a Comissão de Estudos de Problemas Ambientais (CEPA) e o Projeto Floram no Instituto de Estudos Avançados (IEA) (Marcovitch 1998), a criação do PROCAM como um programa inter-unidades vinculado diretamente à Pró-Reitoria de Pós-Graduação (PRPG) refletia o momento histórico singular vivido pelo país. Nestes 30 anos de atuação, o programa formou 335 mestres e 114 doutores, sendo 11 doutorados diretos.
 
 O pioneirismo do PROCAM contribuiu para a criação pela USP de outros cursos na área ambiental, tanto de pós-graduação, quanto de graduação. Em 2001, foi criado o Programa Interunidades em Ecologia de Agroecossistemas na Escola Superior de Agricultura Luiz de Queiroz (ESALQ), posteriormente ampliado para Ecologia Aplicada, em 2006 (PPGI-EA). Em 2012, a Escola de Artes, Ciências e Humanidades (EACH) criou o Programa de Pós-Graduação em Sustentabilidade. No ensino de graduação foram criados dois cursos de Gestão Ambiental, tendo as primeiras turmas ingressado em 2002 (ESALQ) e 2005 (EACH). Vários egressos do PROCAM estiveram entre os docentes contratados. Em 2009, o PROCAM foi incorporado pelo atual Instituto de Energia e Ambiente (IEE), atendendo a determinação da Reitoria de desvincular os cursos interdisciplinares ligados à PRPG.
 
@@ -35,7 +35,6 @@ Ao longo das últimas três décadas a interdisciplinaridade foi ganhando import
 O objetivo desta mesa redonda é fazer um balanço da atuação da USP e do PROCAM nas últimas três décadas frente aos desafios colocados pela Rio-92 para o desenvolvimento sustentável, e seus papéis nas décadas vindouras, diante do agravamento da crise socioambiental trazido pelas mudanças climáticas.
 
 #### Convidados:
-
 
 -   José Goldemberg (Prof. Sênior IEE, USP) -- participação remota
 
@@ -51,10 +50,9 @@ O objetivo desta mesa redonda é fazer um balanço da atuação da USP e do PROC
 
 -   Paulo Sinisgalli (EACH e Coordenador PROCAM/IEE, USP) - Moderador
 
-<center>
-![](https://sicam.com.br/img/mesa-redonda-1.png)
-</center> <br>
+<center>![](https://sicam.com.br/img/mesa-redonda-1.png)</center>
 
+<br>
 
 ### **ABERTURA (14:00-hs)**
 
@@ -70,11 +68,9 @@ A segunda mesa de abertura do IV SICAM reunirá profissionais formados pelo PROC
 
 #### Convidados:
 
-
-
 -   Pedro Jacobi (Prof. Sênior IEE e PROCAM) - Moderador
 
--  **Organizações multilaterais:** Luiz Carlos Beduschi Filho (Oficial Superior de Políticas de Desenvolvimento Rural, FAO/ONU)
+-   **Organizações multilaterais:** Luiz Carlos Beduschi Filho (Oficial Superior de Políticas de Desenvolvimento Rural, FAO/ONU)
 
 -   **Governo:** Cristina Maria Azevedo (Assessoria Técnica da Coordenadoria de Planejamento Ambiental da Secretaria de Infraestrutura e Meio Ambiente-SP)
 
@@ -86,12 +82,37 @@ A segunda mesa de abertura do IV SICAM reunirá profissionais formados pelo PROC
 
 -   **Academia:** Cristina Adams (Profa. Associada, EACH e IEE-USP)
 
+<center>![](https://sicam.com.br/img/mesa-redonda-2.jpeg)</center>
+
+<br>
+
+## **EVENTO DE ENCERRAMENTO - 26/10/2022 - REMOTO**
+
+### **ECOLOGIA DE SABERES NAS QUESTÕES SOCIOAMBIENTAIS: DO LUGAR DE FALA A LUTA COLETIVA. (18h às 19h30)**
+
+O objetivo da mesa-redonda de encerramento é trazer perspectivas de atores sociais diversos, principalmente povos originários, movimentos da sociedade civil e comunidades tradicionais, que contribuem e atuam em pautas ambientais em diversas frentes.
+
+Os eixos centrais da mesa serão sobre um balanço das pautas socioambientais nas respectivas áreas de atuação, e quais os caminhos para (re)construirmos e avançarmos nas pautas daqui para frente.
+
+#### Palestrantes:
+
+-   Adriana Souza Lima - Educadora popular, pesquisadora local, monitora ambiental, pedagoga e Feminista Comunitária, Juréia-SP
+
+-   Bruno Batista de Souza - Educador social - Saberes Ambiental, Jd. Damasceno, Brasilândia-SP
+
+-   Anthony Guarany - Liderança Indígena Guarani da Tenondé Porã e da Yvy Porã no Jaraguá-SP
+
+#### Moderadora:
+
+-   Karla Dilascio - Co-fundadora do Instituto Fronteiras e doutorando PROCAM-USP
+
+Vasta experiência na liderança e facilitação de processos que envolvam fronteiras interétnicas e hibridismo institucional de povos e comunidades tradicionais na Amazônia, com foco no desenvolvimento de ações inovadoras, de impacto local positivo, que privilegiam a autonomia destas populações e a manutenção da floresta em pé.
+
+
 <center>
-![](https://sicam.com.br/img/mesa-redonda-2.jpeg)
-
-
-</center> <br>
-
+![](https://sicam.com.br/img/encerramento.png)
+</center>
+<br>
 
 ### **Referências citadas:**
 
