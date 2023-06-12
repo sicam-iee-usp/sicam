@@ -12,6 +12,10 @@ menu:
       name: Página Inicial
       url: /
       weight: 1
+    - identifier: anais
+      name: Anais do IV SICAM
+      url: /anais-iv-sicam.pdf
+      weight: 2
     # - identifier: blog
     #   name: Notícias
     #   url: /blog/
@@ -41,10 +45,10 @@ menu:
     #   name: Notícias
     #   url: /blog/
     #   weight: 4
-    - identifier: inscricao
-      name: Inscrição
-      url: https://docs.google.com/forms/d/e/1FAIpQLSf3YTizMCqrKLIf9kHC7kUxH1_OX6kPDQ2lKkKN4CJGatIHSQ/viewform
-      weight: 4
+    # - identifier: inscricao
+    #   name: Inscrição
+    #   url: https://docs.google.com/forms/d/e/1FAIpQLSf3YTizMCqrKLIf9kHC7kUxH1_OX6kPDQ2lKkKN4CJGatIHSQ/viewform
+    #   weight: 4
     - parent: evento
       name: Equipe
       url: /equipe/
@@ -137,9 +141,9 @@ params:
     enable: yes
     icon: far fa-file-alt
     link_text: "Clique aqui!"
-    link_url: 'https://docs.google.com/forms/d/e/1FAIpQLSf3YTizMCqrKLIf9kHC7kUxH1_OX6kPDQ2lKkKN4CJGatIHSQ/viewform'
+    link_url: '/anais-iv-sicam.pdf'
 #    subtitle: Submeta o resumo expandido até 04/09/2022!
-    title: Inscreva-se!
+    title: Confira os anais do IV SICAM
   style: green
   testimonials:
     enable: false
